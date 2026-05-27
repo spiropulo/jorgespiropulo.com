@@ -11,7 +11,7 @@ npm run build:all
 ```
 
 - `npm run build` — regenerates HTML pages, `works/*.html`, `sitemap.xml`, and `robots.txt` from `data/artworks.json`
-- `npm run build:stories` — regenerates `js/painting-stories.js`
+- `npm run build:stories` — regenerates `js/painting-stories.js` and `data/painting-stories.json`
 
 To re-import artworks from legacy gallery HTML (files containing `container_js`), restore those files from git and run `npm run build`.
 

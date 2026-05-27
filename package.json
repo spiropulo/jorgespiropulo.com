@@ -4,6 +4,6 @@
   "scripts": {
     "build": "node scripts/build-site.mjs",
     "build:stories": "node scripts/generate-painting-stories.mjs",
-    "build:all": "node scripts/build-site.mjs && node scripts/generate-painting-stories.mjs"
+    "build:all": "node scripts/generate-painting-stories.mjs && node scripts/build-site.mjs"
   }
 }

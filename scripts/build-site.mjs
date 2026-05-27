@@ -14,6 +14,35 @@ const worksDir = path.join(root, "works");
 
 const config = JSON.parse(fs.readFileSync(path.join(root, "site.config.json"), "utf8"));
 
+const paintingStoriesPath = path.join(root, "data", "painting-stories.json");
+let paintingStories = {};
+if (fs.existsSync(paintingStoriesPath)) {
+  paintingStories = JSON.parse(fs.readFileSync(paintingStoriesPath, "utf8"));
+}
+
+function renderPaintingStoryHtml(art) {
+  const paras = paintingStories[art.primary];
+  if (!paras || !paras.length) return "";
+  const ps = paras.map((p) => `            <p>${escapeHtml(p)}</p>`).join("\n");
+  return `
+        <section class="painting-story" aria-labelledby="painting-story-heading">
+            <h2 id="painting-story-heading" class="painting-story__title">About this piece</h2>
+            <div class="painting-story__body">
+${ps}
+            </div>
+            <p class="painting-story__signature">— Jorge Spiropulo</p>
+        </section>`;
+}
+
+function workMetaDescription(art) {
+  const paras = paintingStories[art.primary];
+  if (paras && paras[0]) {
+    const t = paras[0].replace(/\s+/g, " ").trim();
+    return t.length > 158 ? t.slice(0, 155) + "…" : t;
+  }
+  return `${art.title} by Jorge Spiropulo. ${art.meta || "Oil painting."}${art.price && !art.sold ? ` ${art.price}.` : ""}`;
+}
+
 const GALLERY_FILES = [
   "turn.html",
   "trees_paper.html",
@@ -362,7 +391,7 @@ ${scripts}
 function renderWorkPage(art, root) {
   const canonical = `${config.siteUrl}/works/${art.slug}.html`;
   const ogImage = `${config.siteUrl}/${art.primary}`;
-  const desc = `${art.title} by Jorge Spiropulo. ${art.meta || "Oil painting."}${art.price && !art.sold ? ` ${art.price}.` : ""}`;
+  const desc = workMetaDescription(art);
 
   const imgs = art.sources
     .map((src, i) => {
@@ -386,37 +415,7 @@ function renderWorkPage(art, root) {
       ? `<dl class="item-detail__facts">${details.join("")}</dl>`
       : "";
 
-  const storyScript = `    <script src="${root}js/painting-stories.js"></script>
-    <script>
-    (function () {
-        var primary = ${JSON.stringify(art.primary)};
-        var mount = document.getElementById('painting-story-mount');
-        if (!mount || typeof getPaintingStoryParagraphs !== 'function') return;
-        var paras = getPaintingStoryParagraphs(primary);
-        if (!paras || !paras.length) return;
-        var sec = document.createElement('section');
-        sec.className = 'painting-story';
-        sec.setAttribute('aria-labelledby', 'painting-story-heading');
-        var h2 = document.createElement('h2');
-        h2.id = 'painting-story-heading';
-        h2.className = 'painting-story__title';
-        h2.textContent = 'About this piece';
-        sec.appendChild(h2);
-        var body = document.createElement('div');
-        body.className = 'painting-story__body';
-        paras.forEach(function (text) {
-            var p = document.createElement('p');
-            p.textContent = text;
-            body.appendChild(p);
-        });
-        sec.appendChild(body);
-        var sig = document.createElement('p');
-        sig.className = 'painting-story__signature';
-        sig.textContent = '— Jorge Spiropulo';
-        sec.appendChild(sig);
-        mount.appendChild(sec);
-    })();
-    </script>`;
+  const storyHtml = renderPaintingStoryHtml(art);
 
   const body = `<main id="main-content" class="site-shell item-detail">
         <div class="page-title-row item-detail__header">
@@ -431,15 +430,14 @@ function renderWorkPage(art, root) {
         <div class="item-gallery" aria-live="polite">
 ${imgs}
         </div>
-        <div id="painting-story-mount"></div>
+${storyHtml}
     </main>
     <script>
     document.getElementById('back-button').addEventListener('click', function () {
         if (window.history.length > 1) window.history.back();
         else window.location.href = '${root}index.html';
     });
-    </script>
-${storyScript}`;
+    </script>`;
 
   const collection = collectionForArt(art);
   const visualArtwork = {

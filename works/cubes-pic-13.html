@@ -4,7 +4,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pic by Jorge Spiropulo. Oil painting.">
+    <meta name="description" content="Original painting “Pic 39” (Cubes) by Jorge Spiropulo, oil paint, offered from the artist’s Bay Area studio. This piece has been sold; similar works may be…">
     <meta name="author" content="Jorge Spiropulo">
     <meta name="robots" content="index, follow">
     <title>Pic — Jorge Spiropulo</title>
@@ -13,13 +13,13 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Jorge Spiropulo">
     <meta property="og:title" content="Pic — Jorge Spiropulo">
-    <meta property="og:description" content="Pic by Jorge Spiropulo. Oil painting.">
+    <meta property="og:description" content="Original painting “Pic 39” (Cubes) by Jorge Spiropulo, oil paint, offered from the artist’s Bay Area studio. This piece has been sold; similar works may be…">
     <meta property="og:url" content="https://www.jorgespiropulo.com/works/cubes-pic-13.html">
     <meta property="og:image" content="https://www.jorgespiropulo.com/img/cubes/pic_39.jpg">
         <meta property="og:image:alt" content="Painting: Pic by Jorge Spiropulo">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Pic — Jorge Spiropulo">
-    <meta name="twitter:description" content="Pic by Jorge Spiropulo. Oil painting.">
+    <meta name="twitter:description" content="Original painting “Pic 39” (Cubes) by Jorge Spiropulo, oil paint, offered from the artist’s Bay Area studio. This piece has been sold; similar works may be…">
     <meta name="twitter:image" content="https://www.jorgespiropulo.com/img/cubes/pic_39.jpg">
         <meta name="twitter:image:alt" content="Painting: Pic by Jorge Spiropulo">
     <meta name="theme-color" content="#9a3412">
@@ -88,44 +88,22 @@
         <div class="item-gallery" aria-live="polite">
             <img src="../img/cubes/pic_39.jpg" alt="Painting: Pic." loading="eager">
         </div>
-        <div id="painting-story-mount"></div>
+
+        <section class="painting-story" aria-labelledby="painting-story-heading">
+            <h2 id="painting-story-heading" class="painting-story__title">About this piece</h2>
+            <div class="painting-story__body">
+            <p>Original painting “Pic 39” (Cubes) by Jorge Spiropulo, oil paint, offered from the artist’s Bay Area studio. This piece has been sold; similar works may be available—contact the artist for current inventory.</p>
+            <p>Light and shadow are invented in the studio, not copied literally from photography. Collectors of cubist-influenced figurative painting often pair this piece with other works from the same series.</p>
+            <p>Original art from Jorge Spiropulo, an Argentine-born painter working in the San Francisco Bay Area. Collectors search for his work under Jorge Spiropulo, Jorge Mario Spiropulo, and Bay Area figurative oil painting. For hi-res photos or dimensions confirmation, contact Jorge Spiropulo before buying.</p>
+            </div>
+            <p class="painting-story__signature">— Jorge Spiropulo</p>
+        </section>
     </main>
     <script>
     document.getElementById('back-button').addEventListener('click', function () {
         if (window.history.length > 1) window.history.back();
         else window.location.href = '../index.html';
     });
-    </script>
-    <script src="../js/painting-stories.js"></script>
-    <script>
-    (function () {
-        var primary = "img/cubes/pic_39.jpg";
-        var mount = document.getElementById('painting-story-mount');
-        if (!mount || typeof getPaintingStoryParagraphs !== 'function') return;
-        var paras = getPaintingStoryParagraphs(primary);
-        if (!paras || !paras.length) return;
-        var sec = document.createElement('section');
-        sec.className = 'painting-story';
-        sec.setAttribute('aria-labelledby', 'painting-story-heading');
-        var h2 = document.createElement('h2');
-        h2.id = 'painting-story-heading';
-        h2.className = 'painting-story__title';
-        h2.textContent = 'About this piece';
-        sec.appendChild(h2);
-        var body = document.createElement('div');
-        body.className = 'painting-story__body';
-        paras.forEach(function (text) {
-            var p = document.createElement('p');
-            p.textContent = text;
-            body.appendChild(p);
-        });
-        sec.appendChild(body);
-        var sig = document.createElement('p');
-        sig.className = 'painting-story__signature';
-        sig.textContent = '— Jorge Spiropulo';
-        sec.appendChild(sig);
-        mount.appendChild(sec);
-    })();
     </script>
 <footer class="site-footer">
     <div class="footer-top">
