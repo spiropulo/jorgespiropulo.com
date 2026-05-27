@@ -6,4 +6,4 @@ Disallow: /city.html
 Disallow: /canvas.html
 Disallow: /paper.html
 
-Sitemap: https://www.jorgespiropulo.com/sitemap.xml
+Sitemap: https://jorgespiropulo.com/sitemap.xml
