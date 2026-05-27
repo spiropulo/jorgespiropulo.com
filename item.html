@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54626116-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-54626116-1');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Artwork — Jorge Spiropulo</title>
+    <script src="https://platform-api.sharethis.com/js/sharethis.js#property=5cf7492d4351e9001264f534&product=sticky-share-buttons" async></script>
+    <link rel="icon" href="img/expressionism/my.baby.sister.jpg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/gallery-grid.css">
+    <link rel="stylesheet" href="css/c.css">
+    <link rel="stylesheet" href="css/site.css">
+    <script data-ad-client="ca-pub-2591976854147841" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+<div class="site-page">
+    <div class="container gallery-container site-gallery">
+<a class="skip-link" href="#main-content">Skip to main content</a>
+
+<header class="site-header">
+    <div class="site-shell">
+        <nav class="navbar navbar-expand-lg navbar-light" aria-label="Primary">
+            <a class="navbar-brand site-brand" href="index.html">Jorge Spiropulo</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Open menu">
+                <span class="navbar-toggler-icon" aria-hidden="true"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav site-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Collections
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="trees.html">Trees</a>
+                            <a class="dropdown-item" href="turn.html">Turn</a>
+                            <a class="dropdown-item" href="cubes.html">Cubes</a>
+                            <a class="dropdown-item" href="express.html">Expressionism</a>
+                        </div>
+                    </li>
+                </ul>
+                <div class="nav-share" aria-label="Social follow">
+                    <div class="sharethis-inline-follow-buttons"></div>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<div id="main-content" class="item-detail" tabindex="-1">
+            <div class="page-title-row item-detail__header">
+                <div class="item-detail__titles">
+                    <p class="item-page-label" id="item-page-label">Artwork</p>
+                    <h1 class="item-artwork-title" id="name1"></h1>
+                </div>
+                <button type="button" class="back-link btn btn-link p-0 border-0 align-baseline" id="back-button" style="font-size: inherit;" aria-label="Go back to previous page">← Back</button>
+            </div>
+            <p class="text-muted">Additional views appear below when available.</p>
+            <hr>
+
+            <div class="item-gallery" id="src_" aria-live="polite"></div>
+            <div id="painting-story-mount"></div>
+        </div>
+<footer class="site-footer">
+    <div class="footer-top">
+        <div class="site-shell">
+            <div class="sharethis-inline-follow-buttons" aria-label="Social follow"></div>
+        </div>
+    </div>
+
+    <div class="site-shell footer-grid">
+        <div>
+            <h2>Note</h2>
+            <p>Shipping is not included. Paper work is unframed. Framing options are available.</p>
+        </div>
+        <div>
+            <h2>Collections</h2>
+            <p><a href="trees.html">Trees</a></p>
+            <p><a href="turn.html">Turn</a></p>
+            <p><a href="cubes.html">Cubes</a></p>
+            <p><a href="express.html">Expressionism</a></p>
+        </div>
+        <div>
+            <h2>Site</h2>
+            <p><a href="about.html">About</a></p>
+            <p><a href="contact.html">Contact</a></p>
+        </div>
+        <div>
+            <h2>Contact</h2>
+            <p>Moraga, CA 94556, US</p>
+            <p><a href="contact.html">Contact form</a></p>
+        </div>
+    </div>
+
+    <div class="footer-copy">
+        © 2026 <a href="https://www.jorgespiropulo.com/">jorgespiropulo.com</a>
+    </div>
+</footer>
+</div>
+</div>
+
+<script src="js/painting-stories.js"></script>
+<script>
+    (function () {
+        var params = window.location.search.substr(1).split('&').filter(Boolean);
+        var srcEl = document.getElementById('src_');
+        var storyMount = document.getElementById('painting-story-mount');
+
+        function decode(s) {
+            try {
+                return decodeURIComponent(s.replace(/\+/g, ' '));
+            } catch (e) {
+                return s;
+            }
+        }
+
+        var nameFromParam = '';
+        var sources = [];
+        params.forEach(function (item) {
+            var parts = item.split('=');
+            var key = parts[0];
+            var val = parts.length > 1 ? parts.slice(1).join('=') : '';
+            if (!key) return;
+            if (key.indexOf('src') === 0) {
+                sources.push(decode(val));
+            } else if (key === 'name1') {
+                nameFromParam = decode(val).replace(/_/g, ' ');
+            }
+        });
+
+        function humanizeFilename(path) {
+            if (!path) return 'Untitled';
+            var base = path.replace(/^.*\//, '').replace(/\.[^.]+$/i, '');
+            return base
+                .replace(/\./g, ' ')
+                .replace(/_/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim()
+                .replace(/\b\w/g, function (ch) {
+                    return ch.toUpperCase();
+                });
+        }
+
+        var displayTitle = nameFromParam.trim() || humanizeFilename(sources[0]);
+
+        document.getElementById('name1').textContent = displayTitle;
+        document.title = displayTitle + ' — Jorge Spiropulo';
+
+        var alt = 'Painting: ' + displayTitle + '.';
+        sources.forEach(function (path, i) {
+            var img = document.createElement('img');
+            img.src = path;
+            img.alt = sources.length > 1 ? alt + ' View ' + (i + 1) + '.' : alt;
+            img.loading = i === 0 ? 'eager' : 'lazy';
+            srcEl.appendChild(img);
+        });
+
+        var primarySrc = sources[0];
+        if (storyMount && primarySrc && typeof getPaintingStoryParagraphs === 'function') {
+            var paras = getPaintingStoryParagraphs(primarySrc);
+            if (paras && paras.length) {
+                var sec = document.createElement('section');
+                sec.className = 'painting-story';
+                sec.setAttribute('aria-labelledby', 'painting-story-heading');
+                var h2 = document.createElement('h2');
+                h2.id = 'painting-story-heading';
+                h2.className = 'painting-story__title';
+                h2.textContent = 'About this piece';
+                sec.appendChild(h2);
+                var body = document.createElement('div');
+                body.className = 'painting-story__body';
+                paras.forEach(function (text) {
+                    var p = document.createElement('p');
+                    p.textContent = text;
+                    body.appendChild(p);
+                });
+                sec.appendChild(body);
+                var sig = document.createElement('p');
+                sig.className = 'painting-story__signature';
+                sig.textContent = '— Jorge Mario Spiropulo';
+                sec.appendChild(sig);
+                storyMount.appendChild(sec);
+            }
+        }
+
+        document.getElementById('back-button').addEventListener('click', function () {
+            if (window.history.length > 1) {
+                window.history.back();
+            } else {
+                window.location.href = 'index.html';
+            }
+        });
+    })();
+</script>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-slim.min.js"><\/script>')</script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>
