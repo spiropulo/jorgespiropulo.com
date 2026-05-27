@@ -10,18 +10,27 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
 
-const files = ["turn.html", "trees_paper.html", "trees_canvas.html", "express.html", "cubes.html"];
 const keys = new Set();
-for (const f of files) {
-  const t = fs.readFileSync(path.join(root, f), "utf8");
-  const re = /item\.html\?([^"]+)/g;
-  let m;
-  while ((m = re.exec(t))) {
-    const q = m[1];
-    const first = q.split("&").find((p) => p.startsWith("src"));
-    if (first) {
-      const v = decodeURIComponent(first.split("=").slice(1).join("=").replace(/\+/g, " "));
-      keys.add(v);
+const artworksPath = path.join(root, "data", "artworks.json");
+if (fs.existsSync(artworksPath)) {
+  const db = JSON.parse(fs.readFileSync(artworksPath, "utf8"));
+  for (const art of Object.values(db.artworks)) {
+    if (art.primary) keys.add(art.primary);
+    for (const s of art.sources || []) keys.add(s);
+  }
+} else {
+  const files = ["turn.html", "trees_paper.html", "trees_canvas.html", "express.html", "cubes.html"];
+  for (const f of files) {
+    const t = fs.readFileSync(path.join(root, f), "utf8");
+    const re = /item\.html\?([^"]+)/g;
+    let m;
+    while ((m = re.exec(t))) {
+      const q = m[1];
+      const first = q.split("&").find((p) => p.startsWith("src"));
+      if (first) {
+        const v = decodeURIComponent(first.split("=").slice(1).join("=").replace(/\+/g, " "));
+        keys.add(v);
+      }
     }
   }
 }

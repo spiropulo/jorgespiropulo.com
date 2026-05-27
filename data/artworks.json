@@ -1,0 +1,2352 @@
+{
+  "artworks": {
+    "turn-heads-lola-the-dancer": {
+      "href": "item.html?src1=img/turn_heads/woman.turn.head.cubes.brown.hair.jpg",
+      "thumb": "img/turn_heads/woman.turn.head.cubes.brown.hair.jpg",
+      "sources": [
+        "img/turn_heads/woman.turn.head.cubes.brown.hair.jpg"
+      ],
+      "title": "Lola The Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "48 inches by 48 inches.",
+      "meta": "Oil on canvas and wood frame · 48 inches by 48 inches",
+      "price": "$2000.00",
+      "sold": false,
+      "primary": "img/turn_heads/woman.turn.head.cubes.brown.hair.jpg",
+      "slug": "turn-heads-lola-the-dancer"
+    },
+    "turn-heads-lastima": {
+      "href": "item.html?src1=img/turn_heads/transvestite.turn.head.jpg",
+      "thumb": "img/turn_heads/transvestite.turn.head.jpg",
+      "sources": [
+        "img/turn_heads/transvestite.turn.head.jpg"
+      ],
+      "title": "Lastima",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "48 inches by 48 inches.",
+      "meta": "Oil on canvas and wood frame · 48 inches by 48 inches",
+      "price": "$2000.00",
+      "sold": false,
+      "primary": "img/turn_heads/transvestite.turn.head.jpg",
+      "slug": "turn-heads-lastima"
+    },
+    "turn-heads-carpet-dance": {
+      "href": "item.html?src1=img/turn_heads/boy.and.girl.holding.turn.heads.jpg",
+      "thumb": "img/turn_heads/boy.and.girl.holding.turn.heads.jpg",
+      "sources": [
+        "img/turn_heads/boy.and.girl.holding.turn.heads.jpg"
+      ],
+      "title": "Carpet Dance",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "48 inches by 48 inches.",
+      "meta": "Oil on canvas and wood frame · 48 inches by 48 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/boy.and.girl.holding.turn.heads.jpg",
+      "slug": "turn-heads-carpet-dance"
+    },
+    "turn-heads-ron-the-dancer": {
+      "href": "item.html?src1=img/turn_heads/boy.turn.head.with.flowers.jpg",
+      "thumb": "img/turn_heads/boy.turn.head.with.flowers.jpg",
+      "sources": [
+        "img/turn_heads/boy.turn.head.with.flowers.jpg"
+      ],
+      "title": "Ron The Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "Oil on canvas and wood frame · 2 feet by 30 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/boy.turn.head.with.flowers.jpg",
+      "slug": "turn-heads-ron-the-dancer"
+    },
+    "turn-heads-lizy-the-student": {
+      "href": "item.html?src1=img/turn_heads/gril.cubes.turn.head.jpg",
+      "thumb": "img/turn_heads/gril.cubes.turn.head.jpg",
+      "sources": [
+        "img/turn_heads/gril.cubes.turn.head.jpg"
+      ],
+      "title": "Lizy The Student",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "Oil on canvas and wood frame · 2 feet by 30 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/gril.cubes.turn.head.jpg",
+      "slug": "turn-heads-lizy-the-student"
+    },
+    "turn-heads-the-staloni-dancers": {
+      "href": "item.html?src1=img/turn_heads/family.blond.mother.blond.girl.gray.father.jpg",
+      "thumb": "img/turn_heads/family.blond.mother.blond.girl.gray.father.jpg",
+      "sources": [
+        "img/turn_heads/family.blond.mother.blond.girl.gray.father.jpg"
+      ],
+      "title": "The Staloni Dancers",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "48 inches by 48 inches.",
+      "meta": "Oil on canvas and wood frame · 48 inches by 48 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/family.blond.mother.blond.girl.gray.father.jpg",
+      "slug": "turn-heads-the-staloni-dancers"
+    },
+    "turn-heads-the-barber-kids": {
+      "href": "item.html?src1=img/turn_heads/turn.sisters.and.little.brother.turn.heads.jpg",
+      "thumb": "img/turn_heads/turn.sisters.and.little.brother.turn.heads.jpg",
+      "sources": [
+        "img/turn_heads/turn.sisters.and.little.brother.turn.heads.jpg"
+      ],
+      "title": "The Barber Kids",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 4 feet by 4 feet.",
+      "meta": "Oil on canvas and wood frame · About 4 feet by 4 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/turn.sisters.and.little.brother.turn.heads.jpg",
+      "slug": "turn-heads-the-barber-kids"
+    },
+    "turn-heads-the-guitar-and-the-dancer": {
+      "href": "item.html?src1=img/turn_heads/short.hair.man.playing.guitar.for.dancing.woman.turn.head.jpg",
+      "thumb": "img/turn_heads/short.hair.man.playing.guitar.for.dancing.woman.turn.head.jpg",
+      "sources": [
+        "img/turn_heads/short.hair.man.playing.guitar.for.dancing.woman.turn.head.jpg"
+      ],
+      "title": "The Guitar And The Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "about 6 feet by 4 feet.",
+      "meta": "Oil on canvas and wood frame · about 6 feet by 4 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/short.hair.man.playing.guitar.for.dancing.woman.turn.head.jpg",
+      "slug": "turn-heads-the-guitar-and-the-dancer"
+    },
+    "turn-heads-the-sister-dancers": {
+      "href": "item.html?src1=img/turn_heads/older.sisters.and.younger.sisters.jpg",
+      "thumb": "img/turn_heads/older.sisters.and.younger.sisters.jpg",
+      "sources": [
+        "img/turn_heads/older.sisters.and.younger.sisters.jpg"
+      ],
+      "title": "The Sister Dancers",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 5 feet by 5 feet.",
+      "meta": "Oil on canvas and wood frame · About 5 feet by 5 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/older.sisters.and.younger.sisters.jpg",
+      "slug": "turn-heads-the-sister-dancers"
+    },
+    "turn-heads-the-first-family": {
+      "href": "item.html?src1=img/turn_heads/blue.family.turn.heads.jpg",
+      "thumb": "img/turn_heads/blue.family.turn.heads.jpg",
+      "sources": [
+        "img/turn_heads/blue.family.turn.heads.jpg"
+      ],
+      "title": "The First Family",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "48 inches by 48 inches.",
+      "meta": "Oil on canvas and wood frame · 48 inches by 48 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/blue.family.turn.heads.jpg",
+      "slug": "turn-heads-the-first-family"
+    },
+    "turn-heads-siblings": {
+      "href": "item.html?src1=img/turn_heads/boy.girl.cubes.colorful.jpg",
+      "thumb": "img/turn_heads/boy.girl.cubes.colorful.jpg",
+      "sources": [
+        "img/turn_heads/boy.girl.cubes.colorful.jpg"
+      ],
+      "title": "Siblings",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "36 inches by 36 inches.",
+      "meta": "Oil on canvas and wood frame · 36 inches by 36 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/boy.girl.cubes.colorful.jpg",
+      "slug": "turn-heads-siblings"
+    },
+    "turn-heads-scratch-dancers": {
+      "href": "item.html?src1=img/turn_heads/red.family.turn.heads.jpg",
+      "thumb": "img/turn_heads/red.family.turn.heads.jpg",
+      "sources": [
+        "img/turn_heads/red.family.turn.heads.jpg"
+      ],
+      "title": "Scratch Dancers",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 5 feet by 4 feet.",
+      "meta": "Oil on canvas and wood frame · About 5 feet by 4 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/red.family.turn.heads.jpg",
+      "slug": "turn-heads-scratch-dancers"
+    },
+    "turn-heads-red-dances": {
+      "href": "item.html?src1=img/turn_heads/red.family.turn.heads (1).jpg",
+      "thumb": "img/turn_heads/red.family.turn.heads (1).jpg",
+      "sources": [
+        "img/turn_heads/red.family.turn.heads (1).jpg"
+      ],
+      "title": "Red Dances",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 7 feet by 5 feet.",
+      "meta": "Oil on canvas and wood frame · About 7 feet by 5 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/red.family.turn.heads (1).jpg",
+      "slug": "turn-heads-red-dances"
+    },
+    "turn-heads-mother-mora": {
+      "href": "item.html?src1=img/turn_heads/mother.big.blond.hair.holding.son.jpg",
+      "thumb": "img/turn_heads/mother.big.blond.hair.holding.son.jpg",
+      "sources": [
+        "img/turn_heads/mother.big.blond.hair.holding.son.jpg"
+      ],
+      "title": "Mother Mora",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 6 feet by 3 feet.",
+      "meta": "Oil on canvas and wood frame · About 6 feet by 3 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/mother.big.blond.hair.holding.son.jpg",
+      "slug": "turn-heads-mother-mora"
+    },
+    "turn-heads-fish-dancers": {
+      "href": "item.html?src1=img/turn_heads/family.mother.father.boy.with.fish.bowel.jpg",
+      "thumb": "img/turn_heads/family.mother.father.boy.with.fish.bowel.jpg",
+      "sources": [
+        "img/turn_heads/family.mother.father.boy.with.fish.bowel.jpg"
+      ],
+      "title": "Fish Dancers",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 5 feet by 5 feet.",
+      "meta": "Oil on canvas and wood frame · About 5 feet by 5 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/family.mother.father.boy.with.fish.bowel.jpg",
+      "slug": "turn-heads-fish-dancers"
+    },
+    "turn-heads-purple-hair-dancer": {
+      "href": "item.html?src1=img/turn_heads/purple.hair.girl.turn.head.green.shirt.jpg",
+      "thumb": "img/turn_heads/purple.hair.girl.turn.head.green.shirt.jpg",
+      "sources": [
+        "img/turn_heads/purple.hair.girl.turn.head.green.shirt.jpg"
+      ],
+      "title": "Purple Hair Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "Oil on canvas and wood frame · 2 feet by 30 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/purple.hair.girl.turn.head.green.shirt.jpg",
+      "slug": "turn-heads-purple-hair-dancer"
+    },
+    "turn-heads-red-hair-dancer": {
+      "href": "item.html?src1=img/turn_heads/turn.head.man.gay.alone.jpg",
+      "thumb": "img/turn_heads/turn.head.man.gay.alone.jpg",
+      "sources": [
+        "img/turn_heads/turn.head.man.gay.alone.jpg"
+      ],
+      "title": "Red Hair Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "Oil on canvas and wood frame · 2 feet by 30 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/turn.head.man.gay.alone.jpg",
+      "slug": "turn-heads-red-hair-dancer"
+    },
+    "turn-heads-sam-and-dancer": {
+      "href": "item.html?src1=img/turn_heads/young.man.playing.guitar.woman.holding.neck.turn.head.jpg",
+      "thumb": "img/turn_heads/young.man.playing.guitar.woman.holding.neck.turn.head.jpg",
+      "sources": [
+        "img/turn_heads/young.man.playing.guitar.woman.holding.neck.turn.head.jpg"
+      ],
+      "title": "Sam And Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 5 feet by 4 feet.",
+      "meta": "Oil on canvas and wood frame · About 5 feet by 4 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/young.man.playing.guitar.woman.holding.neck.turn.head.jpg",
+      "slug": "turn-heads-sam-and-dancer"
+    },
+    "turn-heads-the-blue-family-dancing": {
+      "href": "item.html?src1=img/turn_heads/family.father.with.tie.mother.holding.father.son.holding.father.turn.heads.jpg",
+      "thumb": "img/turn_heads/family.father.with.tie.mother.holding.father.son.holding.father.turn.heads.jpg",
+      "sources": [
+        "img/turn_heads/family.father.with.tie.mother.holding.father.son.holding.father.turn.heads.jpg"
+      ],
+      "title": "The Blue Family Dancing",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 5 feet by 4 feet.",
+      "meta": "Oil on canvas and wood frame · About 5 feet by 4 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/family.father.with.tie.mother.holding.father.son.holding.father.turn.heads.jpg",
+      "slug": "turn-heads-the-blue-family-dancing"
+    },
+    "turn-heads-the-glass-dancer": {
+      "href": "img/turn_heads/man.turn.head.dancer.jpg",
+      "thumb": "img/turn_heads/man.turn.head.dancer.jpg",
+      "sources": [
+        "img/turn_heads/man.turn.head.dancer.jpg"
+      ],
+      "title": "The Glass Dancer",
+      "medium": "Oil on canvas and wood frame.",
+      "dimensions": "About 3 1/2 feet by 2 feet.",
+      "meta": "Oil on canvas and wood frame · About 3 1/2 feet by 2 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/turn_heads/man.turn.head.dancer.jpg",
+      "slug": "turn-heads-the-glass-dancer"
+    },
+    "trees-tree-19": {
+      "href": "item.html?src1=img/trees/tree19.JPG&src2=img/trees/tree19_1.JPG&name1=Tree_19",
+      "thumb": "img/trees/tree19.JPG",
+      "sources": [
+        "img/trees/tree19.JPG",
+        "img/trees/tree19_1.JPG"
+      ],
+      "title": "Tree 19",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree19.JPG",
+      "slug": "trees-tree-19"
+    },
+    "trees-tree-23": {
+      "href": "item.html?src1=img/trees/tree23.JPG&name1=Tree_23",
+      "thumb": "img/trees/tree23.JPG",
+      "sources": [
+        "img/trees/tree23.JPG"
+      ],
+      "title": "Tree 23",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree23.JPG",
+      "slug": "trees-tree-23"
+    },
+    "trees-tree-24": {
+      "href": "item.html?src1=img/trees/tree24_0.JPG&src1=img/trees/tree24_1.JPG&name1=Tree_24",
+      "thumb": "img/trees/tree24_0.JPG",
+      "sources": [
+        "img/trees/tree24_0.JPG",
+        "img/trees/tree24_1.JPG"
+      ],
+      "title": "Tree 24",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree24_0.JPG",
+      "slug": "trees-tree-24"
+    },
+    "trees-tree-16": {
+      "href": "item.html?src1=img/trees/tree16.JPG&name1=Tree_16",
+      "thumb": "img/trees/tree16.JPG",
+      "sources": [
+        "img/trees/tree16.JPG"
+      ],
+      "title": "Tree 16",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree16.JPG",
+      "slug": "trees-tree-16"
+    },
+    "trees-tree-17": {
+      "href": "item.html?src1=img/trees/tree17.JPG&name1=Tree_17",
+      "thumb": "img/trees/tree17.JPG",
+      "sources": [
+        "img/trees/tree17.JPG"
+      ],
+      "title": "Tree 17",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor Donated Moraga Education Foundation",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor Donated Moraga Education Foundation",
+      "price": "",
+      "sold": false,
+      "primary": "img/trees/tree17.JPG",
+      "slug": "trees-tree-17"
+    },
+    "trees-tree-18": {
+      "href": "item.html?src1=img/trees/tree18_0.JPG&src1=img/trees/tree18_1.JPG&name1=Tree_18",
+      "thumb": "img/trees/tree18_0.JPG",
+      "sources": [
+        "img/trees/tree18_0.JPG",
+        "img/trees/tree18_1.JPG"
+      ],
+      "title": "Tree 18",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree18_0.JPG",
+      "slug": "trees-tree-18"
+    },
+    "trees-tree-14": {
+      "href": "item.html?src1=img/trees/tree14_0.JPG&src1=img/trees/tree14_1.JPG&name1=Tree_14",
+      "thumb": "img/trees/tree14_0.JPG",
+      "sources": [
+        "img/trees/tree14_0.JPG",
+        "img/trees/tree14_1.JPG"
+      ],
+      "title": "Tree 14",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree14_0.JPG",
+      "slug": "trees-tree-14"
+    },
+    "trees-tree-20": {
+      "href": "item.html?src1=img/trees/tree20_0.JPG&src1=img/trees/tree20_1.JPG&name1=Tree_20",
+      "thumb": "img/trees/tree20_0.JPG",
+      "sources": [
+        "img/trees/tree20_0.JPG",
+        "img/trees/tree20_1.JPG"
+      ],
+      "title": "Tree 20",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree20_0.JPG",
+      "slug": "trees-tree-20"
+    },
+    "trees-tree-15": {
+      "href": "item.html?src1=img/trees/tree15.JPG&name1=Tree_15",
+      "thumb": "img/trees/tree15.JPG",
+      "sources": [
+        "img/trees/tree15.JPG"
+      ],
+      "title": "Tree 15",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200.00",
+      "sold": false,
+      "primary": "img/trees/tree15.JPG",
+      "slug": "trees-tree-15"
+    },
+    "trees-tree-27": {
+      "href": "item.html?src1=img/trees/tree27_0.JPG&name1=Tree_27",
+      "thumb": "img/trees/tree27_0.JPG",
+      "sources": [
+        "img/trees/tree27_0.JPG"
+      ],
+      "title": "Tree 27",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree27_0.JPG",
+      "slug": "trees-tree-27"
+    },
+    "trees-tree-28": {
+      "href": "item.html?src1=img/trees/tree28_0.JPG&src1=img/trees/tree28_1.JPG&name1=Tree_28",
+      "thumb": "img/trees/tree28_0.JPG",
+      "sources": [
+        "img/trees/tree28_0.JPG",
+        "img/trees/tree28_1.JPG"
+      ],
+      "title": "Tree 28",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree28_0.JPG",
+      "slug": "trees-tree-28"
+    },
+    "trees-tree-29": {
+      "href": "item.html?src1=img/trees/tree29_0.JPG&src1=img/trees/tree29_1.JPG&name1=Tree_29",
+      "thumb": "img/trees/tree29_0.JPG",
+      "sources": [
+        "img/trees/tree29_0.JPG",
+        "img/trees/tree29_1.JPG"
+      ],
+      "title": "Tree 29",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree29_0.JPG",
+      "slug": "trees-tree-29"
+    },
+    "trees-tree-30": {
+      "href": "item.html?src1=img/trees/tree30_0.JPG&src1=img/trees/tree30_1.JPG&name1=Tree_30",
+      "thumb": "img/trees/tree30_0.JPG",
+      "sources": [
+        "img/trees/tree30_0.JPG",
+        "img/trees/tree30_1.JPG"
+      ],
+      "title": "Tree 30",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree30_0.JPG",
+      "slug": "trees-tree-30"
+    },
+    "trees-tree-32": {
+      "href": "item.html?src1=img/trees/tree32_0.JPG&src1=img/trees/tree32_1.JPG&name1=Tree_32",
+      "thumb": "img/trees/tree32_0.JPG",
+      "sources": [
+        "img/trees/tree32_0.JPG",
+        "img/trees/tree32_1.JPG"
+      ],
+      "title": "Tree 32",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor Donated Defstop Photography",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor Donated Defstop Photography",
+      "price": "",
+      "sold": false,
+      "primary": "img/trees/tree32_0.JPG",
+      "slug": "trees-tree-32"
+    },
+    "trees-woman-running-by-tree": {
+      "href": "item.html?src1=img/trees/woman_tree1_0.JPG&src1=img/trees/woman_tree1_1.JPG&name1=Woman_Tree",
+      "thumb": "img/trees/woman_tree1_0.JPG",
+      "sources": [
+        "img/trees/woman_tree1_0.JPG",
+        "img/trees/woman_tree1_1.JPG"
+      ],
+      "title": "Woman Running by Tree",
+      "medium": "acrylics, watercolors and crayons on paper",
+      "dimensions": "22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "meta": "acrylics, watercolors and crayons on paper · 22 inches by 30 inches Paper: Fabriano Artistico Traditional White Watercolor",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/woman_tree1_0.JPG",
+      "slug": "trees-woman-running-by-tree"
+    },
+    "trees-tree-33": {
+      "href": "item.html?src1=img/trees/tree33_0.jpg&src2=img/trees/tree33_1.jpg&src2=img/trees/tree33_2.jpg&src2=img/trees/tree33_3.jpg&src2=img/trees/tree33_4.jpg&name1=Tree_33",
+      "thumb": "img/trees/tree33_0.jpg",
+      "sources": [
+        "img/trees/tree33_0.jpg",
+        "img/trees/tree33_1.jpg",
+        "img/trees/tree33_2.jpg",
+        "img/trees/tree33_3.jpg",
+        "img/trees/tree33_4.jpg"
+      ],
+      "title": "Tree 33",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree33_0.jpg",
+      "slug": "trees-tree-33"
+    },
+    "trees-tree-34": {
+      "href": "item.html?src1=img/trees/tree34_0.jpg&src2=img/trees/tree34_1.jpg&src2=img/trees/tree34_2.jpg&src2=img/trees/tree34_3.jpg&src2=img/trees/tree34_4.jpg&name1=Tree_34",
+      "thumb": "img/trees/tree34_0.jpg",
+      "sources": [
+        "img/trees/tree34_0.jpg",
+        "img/trees/tree34_1.jpg",
+        "img/trees/tree34_2.jpg",
+        "img/trees/tree34_3.jpg",
+        "img/trees/tree34_4.jpg"
+      ],
+      "title": "Tree 34",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree34_0.jpg",
+      "slug": "trees-tree-34"
+    },
+    "trees-tree-35": {
+      "href": "item.html?src1=img/trees/tree35_0.jpg&src2=img/trees/tree35_1.jpg&src2=img/trees/tree35_2.jpg&src2=img/trees/tree35_3.jpg&src2=img/trees/tree35_4.jpg&name1=Tree_35",
+      "thumb": "img/trees/tree35_0.jpg",
+      "sources": [
+        "img/trees/tree35_0.jpg",
+        "img/trees/tree35_1.jpg",
+        "img/trees/tree35_2.jpg",
+        "img/trees/tree35_3.jpg",
+        "img/trees/tree35_4.jpg"
+      ],
+      "title": "Tree 35",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree35_0.jpg",
+      "slug": "trees-tree-35"
+    },
+    "trees-tree-36": {
+      "href": "item.html?src1=img/trees/tree36_0.jpg&src2=img/trees/tree36_1.jpg&src2=img/trees/tree36_2.jpg&src2=img/trees/tree36_3.jpg&src2=img/trees/tree36_4.jpg&name1=Tree_36",
+      "thumb": "img/trees/tree36_0.jpg",
+      "sources": [
+        "img/trees/tree36_0.jpg",
+        "img/trees/tree36_1.jpg",
+        "img/trees/tree36_2.jpg",
+        "img/trees/tree36_3.jpg",
+        "img/trees/tree36_4.jpg"
+      ],
+      "title": "Tree 36",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree36_0.jpg",
+      "slug": "trees-tree-36"
+    },
+    "trees-tree-37": {
+      "href": "item.html?src1=img/trees/tree37_0.jpg&src2=img/trees/tree37_1.jpg&src2=img/trees/tree37_2.jpg&src2=img/trees/tree37_3.jpg&src2=img/trees/tree37_4.jpg&name1=Tree_37",
+      "thumb": "img/trees/tree37_0.jpg",
+      "sources": [
+        "img/trees/tree37_0.jpg",
+        "img/trees/tree37_1.jpg",
+        "img/trees/tree37_2.jpg",
+        "img/trees/tree37_3.jpg",
+        "img/trees/tree37_4.jpg"
+      ],
+      "title": "Tree 37",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "$200",
+      "sold": false,
+      "primary": "img/trees/tree37_0.jpg",
+      "slug": "trees-tree-37"
+    },
+    "trees-tree-38": {
+      "href": "item.html?src1=img/trees/tree38_0.jpg&src2=img/trees/tree38_1.jpg&src2=img/trees/tree38_2.jpg&src2=img/trees/tree38_3.jpg&src2=img/trees/tree38_4.jpg&name1=Tree_38",
+      "thumb": "img/trees/tree38_0.jpg",
+      "sources": [
+        "img/trees/tree38_0.jpg",
+        "img/trees/tree38_1.jpg",
+        "img/trees/tree38_2.jpg",
+        "img/trees/tree38_3.jpg",
+        "img/trees/tree38_4.jpg"
+      ],
+      "title": "Tree 38",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree38_0.jpg",
+      "slug": "trees-tree-38"
+    },
+    "trees-tree-39": {
+      "href": "item.html?src1=img/trees/tree39_0.jpg&src2=img/trees/tree39_1.jpg&src2=img/trees/tree39_2.jpg&src2=img/trees/tree39_3.jpg&src2=img/trees/tree39_4.jpg&name1=Tree_39",
+      "thumb": "img/trees/tree39_0.jpg",
+      "sources": [
+        "img/trees/tree39_0.jpg",
+        "img/trees/tree39_1.jpg",
+        "img/trees/tree39_2.jpg",
+        "img/trees/tree39_3.jpg",
+        "img/trees/tree39_4.jpg"
+      ],
+      "title": "Tree 39",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree39_0.jpg",
+      "slug": "trees-tree-39"
+    },
+    "trees-tree-40": {
+      "href": "item.html?src1=img/trees/tree40_0.jpg&src2=img/trees/tree40_1.jpg&src2=img/trees/tree40_2.jpg&src2=img/trees/tree40_3.jpg&src2=img/trees/tree40_4.jpg&name1=Tree_40",
+      "thumb": "img/trees/tree40_0.jpg",
+      "sources": [
+        "img/trees/tree40_0.jpg",
+        "img/trees/tree40_1.jpg",
+        "img/trees/tree40_2.jpg",
+        "img/trees/tree40_3.jpg",
+        "img/trees/tree40_4.jpg"
+      ],
+      "title": "Tree 40",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree40_0.jpg",
+      "slug": "trees-tree-40"
+    },
+    "trees-tree-41": {
+      "href": "item.html?src1=img/trees/tree41_0.jpg&src2=img/trees/tree41_1.jpg&src2=img/trees/tree41_2.jpg&src2=img/trees/tree41_3.jpg&src2=img/trees/tree41_4.jpg&name1=Tree_41",
+      "thumb": "img/trees/tree41_0.jpg",
+      "sources": [
+        "img/trees/tree41_0.jpg",
+        "img/trees/tree41_1.jpg",
+        "img/trees/tree41_2.jpg",
+        "img/trees/tree41_3.jpg",
+        "img/trees/tree41_4.jpg"
+      ],
+      "title": "Tree 41",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "24 inches by 18 inches.",
+      "meta": "OIL on canvas and wood frame · 24 inches by 18 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree41_0.jpg",
+      "slug": "trees-tree-41"
+    },
+    "trees-tree-26": {
+      "href": "item.html?src1=img/trees/tree26.JPG&src2=img/trees/tree26_1.JPG&name1=Tree_26",
+      "thumb": "img/trees/tree26.JPG",
+      "sources": [
+        "img/trees/tree26.JPG",
+        "img/trees/tree26_1.JPG"
+      ],
+      "title": "Tree 26",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "8 inches by 10 inches.",
+      "meta": "OIL on canvas and wood frame · 8 inches by 10 inches",
+      "price": "$150",
+      "sold": false,
+      "primary": "img/trees/tree26.JPG",
+      "slug": "trees-tree-26"
+    },
+    "trees-tree-9": {
+      "href": "item.html?src1=img/trees/tree9.JPG&src2=img/trees/tree9_2.JPG&name1=Tree_9",
+      "thumb": "img/trees/tree9.JPG",
+      "sources": [
+        "img/trees/tree9.JPG",
+        "img/trees/tree9_2.JPG"
+      ],
+      "title": "Tree 9",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "11 inches by 14 inches",
+      "meta": "OIL on canvas and wood frame · 11 inches by 14 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree9.JPG",
+      "slug": "trees-tree-9"
+    },
+    "trees-tree-10": {
+      "href": "item.html?src1=img/trees/tree10.JPG&src1=img/trees/tree10_1.JPG&src1=img/trees/tree10_2.JPG&name1=Tree_10",
+      "thumb": "img/trees/tree10.JPG",
+      "sources": [
+        "img/trees/tree10.JPG",
+        "img/trees/tree10_1.JPG",
+        "img/trees/tree10_2.JPG"
+      ],
+      "title": "Tree 10",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "1 foot by 1 foot.",
+      "meta": "OIL on canvas and wood frame · 1 foot by 1 foot",
+      "price": "$300",
+      "sold": false,
+      "primary": "img/trees/tree10.JPG",
+      "slug": "trees-tree-10"
+    },
+    "trees-tree-11": {
+      "href": "item.html?src1=img/trees/tree11.JPG&src2=img/trees/tree11_1.JPG&src3=img/trees/tree11_4.JPG&src4=img/trees/tree11_5.JPG&name1=Tree_11",
+      "thumb": "img/trees/tree11.JPG",
+      "sources": [
+        "img/trees/tree11.JPG",
+        "img/trees/tree11_1.JPG",
+        "img/trees/tree11_4.JPG",
+        "img/trees/tree11_5.JPG"
+      ],
+      "title": "Tree 11",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "3 feet by 13 inches",
+      "meta": "OIL on canvas and wood frame · 3 feet by 13 inches",
+      "price": "$350.00",
+      "sold": false,
+      "primary": "img/trees/tree11.JPG",
+      "slug": "trees-tree-11"
+    },
+    "trees-tree-12": {
+      "href": "item.html?src1=img/trees/tree12.JPG&src2=img/trees/tree12_1.JPG&name1=Tree_12",
+      "thumb": "img/trees/tree12.JPG",
+      "sources": [
+        "img/trees/tree12.JPG",
+        "img/trees/tree12_1.JPG"
+      ],
+      "title": "Tree 12",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "2 1/2 feet by 15 inches",
+      "meta": "OIL on canvas and wood frame · 2 1/2 feet by 15 inches",
+      "price": "$350.00",
+      "sold": false,
+      "primary": "img/trees/tree12.JPG",
+      "slug": "trees-tree-12"
+    },
+    "trees-tree-21": {
+      "href": "item.html?src1=img/trees/tree21.JPG&src2=img/trees/tree21_4.JPG&src3=img/trees/tree21_3.JPG&src4=img/trees/tree21_2.JPG&name1=Tree_21",
+      "thumb": "img/trees/tree21.JPG",
+      "sources": [
+        "img/trees/tree21.JPG",
+        "img/trees/tree21_4.JPG",
+        "img/trees/tree21_3.JPG",
+        "img/trees/tree21_2.JPG"
+      ],
+      "title": "Tree 21",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "2 feet by 18 inches",
+      "meta": "OIL on canvas and wood frame · 2 feet by 18 inches",
+      "price": "$350.00",
+      "sold": false,
+      "primary": "img/trees/tree21.JPG",
+      "slug": "trees-tree-21"
+    },
+    "trees-tree-13": {
+      "href": "item.html?src1=img/trees/tree13.JPG&src2=img/trees/tree13_2.JPG&src3=img/trees/tree13_1.JPG&name1=Tree_13",
+      "thumb": "img/trees/tree13.JPG",
+      "sources": [
+        "img/trees/tree13.JPG",
+        "img/trees/tree13_2.JPG",
+        "img/trees/tree13_1.JPG"
+      ],
+      "title": "Tree 13",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "2 feet by 18 inches",
+      "meta": "OIL on canvas and wood frame · 2 feet by 18 inches",
+      "price": "$350.00",
+      "sold": false,
+      "primary": "img/trees/tree13.JPG",
+      "slug": "trees-tree-13"
+    },
+    "trees-tree-25": {
+      "href": "item.html?src1=img/trees/tree25.JPG&src2=img/trees/tree25_1.JPG&src3=img/trees/tree25_2.JPG&src4=img/trees/tree25_3.JPG&name1=Tree_25",
+      "thumb": "img/trees/tree25.JPG",
+      "sources": [
+        "img/trees/tree25.JPG",
+        "img/trees/tree25_1.JPG",
+        "img/trees/tree25_2.JPG",
+        "img/trees/tree25_3.JPG"
+      ],
+      "title": "Tree 25",
+      "medium": "OIL on canvas 3 panels, wood frames",
+      "dimensions": "Each panel is 24 w by 30 h inches. 6 feet across.",
+      "meta": "OIL on canvas 3 panels, wood frames · Each panel is 24 w by 30 h inches. 6 feet across",
+      "price": "$1500.00",
+      "sold": false,
+      "primary": "img/trees/tree25.JPG",
+      "slug": "trees-tree-25"
+    },
+    "trees-tree-1": {
+      "href": "item.html?src1=img/trees/tree1.JPG&src2=img/trees/tree1_1.JPG&src3=img/trees/tree1_2.JPG&name1=Tree_1",
+      "thumb": "img/trees/tree1.JPG",
+      "sources": [
+        "img/trees/tree1.JPG",
+        "img/trees/tree1_1.JPG",
+        "img/trees/tree1_2.JPG"
+      ],
+      "title": "Tree 1",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "5 feet 3 inches by 4 feet",
+      "meta": "OIL on canvas and wood frame · 5 feet 3 inches by 4 feet",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree1.JPG",
+      "slug": "trees-tree-1"
+    },
+    "trees-tree-3": {
+      "href": "item.html?src1=img/trees/tree3.JPG&src2=img/trees/tree3_1.JPG&src3=img/trees/tree3_2.JPG&name1=Tree_3",
+      "thumb": "img/trees/tree3.JPG",
+      "sources": [
+        "img/trees/tree3.JPG",
+        "img/trees/tree3_1.JPG",
+        "img/trees/tree3_2.JPG"
+      ],
+      "title": "Tree 3",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "5 feet 3 inches by 4 feet",
+      "meta": "OIL on canvas and wood frame · 5 feet 3 inches by 4 feet",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/trees/tree3.JPG",
+      "slug": "trees-tree-3"
+    },
+    "trees-tree-5": {
+      "href": "item.html?src1=img/trees/tree5.JPG&src2=img/trees/tree5_2.JPG&src3=img/trees/tree5_3.JPG&name1=Tree_5",
+      "thumb": "img/trees/tree5.JPG",
+      "sources": [
+        "img/trees/tree5.JPG",
+        "img/trees/tree5_2.JPG",
+        "img/trees/tree5_3.JPG"
+      ],
+      "title": "Tree 5",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "5 feet 3 inches by 3 feet 10 inches",
+      "meta": "OIL on canvas and wood frame · 5 feet 3 inches by 3 feet 10 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree5.JPG",
+      "slug": "trees-tree-5"
+    },
+    "trees-tree-6": {
+      "href": "item.html?src1=img/trees/tree6.JPG&src2=img/trees/tree6_1.JPG&name1=Tree_6",
+      "thumb": "img/trees/tree6.JPG",
+      "sources": [
+        "img/trees/tree6.JPG",
+        "img/trees/tree6_1.JPG"
+      ],
+      "title": "Tree 6",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "4 feet by 5 feet 3 inches",
+      "meta": "OIL on canvas and wood frame · 4 feet by 5 feet 3 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/trees/tree6.JPG",
+      "slug": "trees-tree-6"
+    },
+    "trees-tree-7": {
+      "href": "item.html?src1=img/trees/tree7.JPG&src2=img/trees/tree7_0.JPG&src3=img/trees/tree7_3.JPG&src4=img/trees/tree7_2.JPG&name1=Tree_7",
+      "thumb": "img/trees/tree7.JPG",
+      "sources": [
+        "img/trees/tree7.JPG",
+        "img/trees/tree7_0.JPG",
+        "img/trees/tree7_3.JPG",
+        "img/trees/tree7_2.JPG"
+      ],
+      "title": "Tree 7",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "3 feet 10 inches by 5 feet 3 inches",
+      "meta": "OIL on canvas and wood frame · 3 feet 10 inches by 5 feet 3 inches",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/trees/tree7.JPG",
+      "slug": "trees-tree-7"
+    },
+    "trees-tree-8": {
+      "href": "item.html?src1=img/trees/tree8.JPG&src2=img/trees/tree8_1.JPG&src3=img/trees/tree8_2.JPG&src4=img/trees/tree8_3.JPG&name1=Tree_8",
+      "thumb": "img/trees/tree8.JPG",
+      "sources": [
+        "img/trees/tree8.JPG",
+        "img/trees/tree8_1.JPG",
+        "img/trees/tree8_2.JPG",
+        "img/trees/tree8_3.JPG"
+      ],
+      "title": "Tree 8",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "4 feet by 5 feet 3 inches",
+      "meta": "OIL on canvas and wood frame · 4 feet by 5 feet 3 inches",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/trees/tree8.JPG",
+      "slug": "trees-tree-8"
+    },
+    "trees-tree-4": {
+      "href": "item.html?src1=img/trees/tree4.JPG&name1=Tree_4",
+      "thumb": "img/trees/tree4.JPG",
+      "sources": [
+        "img/trees/tree4.JPG"
+      ],
+      "title": "Tree 4",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "5 feet 3 inches by 4 feet",
+      "meta": "OIL on canvas and wood frame · 5 feet 3 inches by 4 feet",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/trees/tree4.JPG",
+      "slug": "trees-tree-4"
+    },
+    "trees-tree-22": {
+      "href": "item.html?src1=img/trees/tree22.JPG&name1=Tree_22",
+      "thumb": "img/trees/tree22.JPG",
+      "sources": [
+        "img/trees/tree22.JPG"
+      ],
+      "title": "Tree 22",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "5 feet 3 inches by 4 feet",
+      "meta": "OIL on canvas and wood frame · 5 feet 3 inches by 4 feet",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/trees/tree22.JPG",
+      "slug": "trees-tree-22"
+    },
+    "trees-tree-2": {
+      "href": "item.html?src1=img/trees/tree2.JPG&src2=img/trees/tree2_0.JPG&src3=img/trees/tree2_01.JPG&src4=img/trees/tree2_1.JPG&src5=img/trees/tree2_2.JPG&src6=img/trees/tree2_3.JPG&src7=img/trees/tree2_4.JPG&name1=Tree_2",
+      "thumb": "img/trees/tree2.JPG",
+      "sources": [
+        "img/trees/tree2.JPG",
+        "img/trees/tree2_0.JPG",
+        "img/trees/tree2_01.JPG",
+        "img/trees/tree2_1.JPG",
+        "img/trees/tree2_2.JPG",
+        "img/trees/tree2_3.JPG",
+        "img/trees/tree2_4.JPG"
+      ],
+      "title": "Tree 2",
+      "medium": "OIL on canvas and wood frame",
+      "dimensions": "8 feet by 5 feet 3 inches",
+      "meta": "OIL on canvas and wood frame · 8 feet by 5 feet 3 inches",
+      "price": "$5000.00",
+      "sold": false,
+      "primary": "img/trees/tree2.JPG",
+      "slug": "trees-tree-2"
+    },
+    "expressionism-a-park-in-buenos-aires": {
+      "href": "item.html?src1=img/expressionism/nelly.jorge.carla.in.buenos.aires.jpg",
+      "thumb": "img/expressionism/nelly.jorge.carla.in.buenos.aires.jpg",
+      "sources": [
+        "img/expressionism/nelly.jorge.carla.in.buenos.aires.jpg"
+      ],
+      "title": "A Park In Buenos Aires",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "4 feet by 5 feet 5 inches.",
+      "meta": "OIL on canvas and wood frame · 4 feet by 5 feet 5 inches",
+      "price": "$7000.00",
+      "sold": false,
+      "primary": "img/expressionism/nelly.jorge.carla.in.buenos.aires.jpg",
+      "slug": "expressionism-a-park-in-buenos-aires"
+    },
+    "expressionism-the-police": {
+      "href": "item.html?src1=img/expressionism/t.3.panels.3.faces.large.teeth.jpg",
+      "thumb": "img/expressionism/t.3.panels.3.faces.large.teeth.jpg",
+      "sources": [
+        "img/expressionism/t.3.panels.3.faces.large.teeth.jpg"
+      ],
+      "title": "The Police",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "54 inches by 3 feet.",
+      "meta": "OIL on canvas and wood frame · 54 inches by 3 feet",
+      "price": "$2000.00",
+      "sold": false,
+      "primary": "img/expressionism/t.3.panels.3.faces.large.teeth.jpg",
+      "slug": "expressionism-the-police"
+    },
+    "expressionism-son-and-father": {
+      "href": "item.html?src1=img/expressionism/father.and.son.at.night.in.the.cold.jpg",
+      "thumb": "img/expressionism/father.and.son.at.night.in.the.cold.jpg",
+      "sources": [
+        "img/expressionism/father.and.son.at.night.in.the.cold.jpg"
+      ],
+      "title": "Son And Father",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "2 feet by 4 feet.",
+      "meta": "OIL on canvas and wood frame · 2 feet by 4 feet",
+      "price": "$2000.00",
+      "sold": false,
+      "primary": "img/expressionism/father.and.son.at.night.in.the.cold.jpg",
+      "slug": "expressionism-son-and-father"
+    },
+    "expressionism-mother-emma": {
+      "href": "item.html?src1=img/expressionism/mother-daughter.jpg",
+      "thumb": "img/expressionism/mother-daughter.jpg",
+      "sources": [
+        "img/expressionism/mother-daughter.jpg"
+      ],
+      "title": "Mother Emma",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "4 feet by 5 feet 3 inches.",
+      "meta": "OIL on canvas and wood frame · 4 feet by 5 feet 3 inches",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/expressionism/mother-daughter.jpg",
+      "slug": "expressionism-mother-emma"
+    },
+    "expressionism-the-charlatan": {
+      "href": "item.html?src1=img/expressionism/big.face.red.and.yellow.jpg",
+      "thumb": "img/expressionism/big.face.red.and.yellow.jpg",
+      "sources": [
+        "img/expressionism/big.face.red.and.yellow.jpg"
+      ],
+      "title": "The Charlatan",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "OIL on canvas and wood frame · 2 feet by 30 inches",
+      "price": "$1000.00",
+      "sold": false,
+      "primary": "img/expressionism/big.face.red.and.yellow.jpg",
+      "slug": "expressionism-the-charlatan"
+    },
+    "expressionism-self-portrait": {
+      "href": "item.html?src1=img/expressionism/jorge.orange.background.with.hand.jpg",
+      "thumb": "img/expressionism/jorge.orange.background.with.hand.jpg",
+      "sources": [
+        "img/expressionism/jorge.orange.background.with.hand.jpg"
+      ],
+      "title": "Self Portrait",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "OIL on canvas and wood frame · 2 feet by 30 inches",
+      "price": "$1000.00",
+      "sold": false,
+      "primary": "img/expressionism/jorge.orange.background.with.hand.jpg",
+      "slug": "expressionism-self-portrait"
+    },
+    "expressionism-brother-and-little-sister": {
+      "href": "item.html?src1=img/expressionism/my.baby.sister.jpg",
+      "thumb": "img/expressionism/my.baby.sister.jpg",
+      "sources": [
+        "img/expressionism/my.baby.sister.jpg"
+      ],
+      "title": "Brother And Little Sister",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "2 feet by 30 inches.",
+      "meta": "OIL on canvas and wood frame · 2 feet by 30 inches",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/my.baby.sister.jpg",
+      "slug": "expressionism-brother-and-little-sister"
+    },
+    "expressionism-keep-the-aspidistra-flying": {
+      "href": "item.html?src1=img/expressionism/political.speach.jpg",
+      "thumb": "img/expressionism/political.speach.jpg",
+      "sources": [
+        "img/expressionism/political.speach.jpg"
+      ],
+      "title": "Keep The Aspidistra Flying",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "8 feet by 5 feet 3 inches.",
+      "meta": "OIL on canvas and wood frame · 8 feet by 5 feet 3 inches",
+      "price": "$5000.00",
+      "sold": false,
+      "primary": "img/expressionism/political.speach.jpg",
+      "slug": "expressionism-keep-the-aspidistra-flying"
+    },
+    "expressionism-mother-sarah": {
+      "href": "item.html?src1=img/expressionism/DSC01778.jpg",
+      "thumb": "img/expressionism/DSC01778.jpg",
+      "sources": [
+        "img/expressionism/DSC01778.jpg"
+      ],
+      "title": "Mother Sarah",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "3 feet 8 inches by 5 feet 2 inches.",
+      "meta": "OIL on canvas and wood frame · 3 feet 8 inches by 5 feet 2 inches",
+      "price": "$3000.00",
+      "sold": false,
+      "primary": "img/expressionism/DSC01778.jpg",
+      "slug": "expressionism-mother-sarah"
+    },
+    "expressionism-thailand": {
+      "href": "item.html?src1=img/expressionism/DSC01791.jpg",
+      "thumb": "img/expressionism/DSC01791.jpg",
+      "sources": [
+        "img/expressionism/DSC01791.jpg"
+      ],
+      "title": "Thailand",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "10 feet 3 inches by 6 feet.",
+      "meta": "OIL on canvas and wood frame · 10 feet 3 inches by 6 feet",
+      "price": "$15,000.00",
+      "sold": false,
+      "primary": "img/expressionism/DSC01791.jpg",
+      "slug": "expressionism-thailand"
+    },
+    "expressionism-sisters": {
+      "href": "item.html?src1=img/expressionism/t.3.sisters.jpg",
+      "thumb": "img/expressionism/t.3.sisters.jpg",
+      "sources": [
+        "img/expressionism/t.3.sisters.jpg"
+      ],
+      "title": "Sisters",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "8 feet by 5 feet 3 inches.",
+      "meta": "OIL on canvas and wood frame · 8 feet by 5 feet 3 inches",
+      "price": "$5000.00",
+      "sold": false,
+      "primary": "img/expressionism/t.3.sisters.jpg",
+      "slug": "expressionism-sisters"
+    },
+    "expressionism-animal-farm": {
+      "href": "item.html?src1=img/expressionism/animal.farm.jpg",
+      "thumb": "img/expressionism/animal.farm.jpg",
+      "sources": [
+        "img/expressionism/animal.farm.jpg"
+      ],
+      "title": "Animal Farm",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "8 feet by 5 feet 3 inches.",
+      "meta": "OIL on canvas and wood frame · 8 feet by 5 feet 3 inches",
+      "price": "$5000.00",
+      "sold": false,
+      "primary": "img/expressionism/animal.farm.jpg",
+      "slug": "expressionism-animal-farm"
+    },
+    "expressionism-door-to-door-salesman": {
+      "href": "item.html?src1=img/expressionism/man.at.night.on.the.road.selling.umbrellas.jpg",
+      "thumb": "img/expressionism/man.at.night.on.the.road.selling.umbrellas.jpg",
+      "sources": [
+        "img/expressionism/man.at.night.on.the.road.selling.umbrellas.jpg"
+      ],
+      "title": "Door To Door Salesman",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "48 inches by 48 inches.",
+      "meta": "OIL on canvas and wood frame · 48 inches by 48 inches",
+      "price": "$2000.00",
+      "sold": false,
+      "primary": "img/expressionism/man.at.night.on.the.road.selling.umbrellas.jpg",
+      "slug": "expressionism-door-to-door-salesman"
+    },
+    "expressionism-man-staring-woman-eyes": {
+      "href": "item.html?src1=img/expressionism/man.staring.woman.eyes.jpg",
+      "thumb": "img/expressionism/man.staring.woman.eyes.jpg",
+      "sources": [
+        "img/expressionism/man.staring.woman.eyes.jpg"
+      ],
+      "title": "Man Staring Woman Eyes",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/man.staring.woman.eyes.jpg",
+      "slug": "expressionism-man-staring-woman-eyes"
+    },
+    "expressionism-woman-holding-umbrella-for-man": {
+      "href": "item.html?src1=img/expressionism/woman.holding.umbrella.for.man.jpg",
+      "thumb": "img/expressionism/woman.holding.umbrella.for.man.jpg",
+      "sources": [
+        "img/expressionism/woman.holding.umbrella.for.man.jpg"
+      ],
+      "title": "Woman Holding Umbrella For Man",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/woman.holding.umbrella.for.man.jpg",
+      "slug": "expressionism-woman-holding-umbrella-for-man"
+    },
+    "expressionism-woman-with-nice-dress-and-nice-hair": {
+      "href": "item.html?src1=img/expressionism/woman.with.nice.dress.and.nice.hair.jpg",
+      "thumb": "img/expressionism/woman.with.nice.dress.and.nice.hair.jpg",
+      "sources": [
+        "img/expressionism/woman.with.nice.dress.and.nice.hair.jpg"
+      ],
+      "title": "Woman With Nice Dress And Nice Hair",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/woman.with.nice.dress.and.nice.hair.jpg",
+      "slug": "expressionism-woman-with-nice-dress-and-nice-hair"
+    },
+    "expressionism-blond-with-broom-and-white-dress": {
+      "href": "item.html?src1=img/expressionism/blond.with.broom.and.white.dress.jpg",
+      "thumb": "img/expressionism/blond.with.broom.and.white.dress.jpg",
+      "sources": [
+        "img/expressionism/blond.with.broom.and.white.dress.jpg"
+      ],
+      "title": "Blond With Broom And White Dress",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/blond.with.broom.and.white.dress.jpg",
+      "slug": "expressionism-blond-with-broom-and-white-dress"
+    },
+    "expressionism-the-chat-holding-hands": {
+      "href": "item.html?src1=img/expressionism/the.chat.holding.hands.jpg",
+      "thumb": "img/expressionism/the.chat.holding.hands.jpg",
+      "sources": [
+        "img/expressionism/the.chat.holding.hands.jpg"
+      ],
+      "title": "The Chat Holding Hands",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/the.chat.holding.hands.jpg",
+      "slug": "expressionism-the-chat-holding-hands"
+    },
+    "expressionism-pic": {
+      "href": "item.html?src1=img/expressionism/pic_33.jpg",
+      "thumb": "img/expressionism/pic_33.jpg",
+      "sources": [
+        "img/expressionism/pic_33.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_33.jpg",
+      "slug": "expressionism-pic"
+    },
+    "expressionism-pic-2": {
+      "href": "item.html?src1=img/expressionism/pic_27.jpg",
+      "thumb": "img/expressionism/pic_27.jpg",
+      "sources": [
+        "img/expressionism/pic_27.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_27.jpg",
+      "slug": "expressionism-pic-2"
+    },
+    "expressionism-clown-like-long-eyelashes-yellow-and-blue-green-background": {
+      "href": "item.html?src1=img/expressionism/clown.like.long.eyelashes.yellow.and.blue-green.background.jpg",
+      "thumb": "img/expressionism/clown.like.long.eyelashes.yellow.and.blue-green.background.jpg",
+      "sources": [
+        "img/expressionism/clown.like.long.eyelashes.yellow.and.blue-green.background.jpg"
+      ],
+      "title": "Clown Like Long Eyelashes Yellow And Blue-Green Background",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/clown.like.long.eyelashes.yellow.and.blue-green.background.jpg",
+      "slug": "expressionism-clown-like-long-eyelashes-yellow-and-blue-green-background"
+    },
+    "expressionism-my-mothers-father": {
+      "href": "item.html?src1=img/expressionism/my.mothers.father.jpg",
+      "thumb": "img/expressionism/my.mothers.father.jpg",
+      "sources": [
+        "img/expressionism/my.mothers.father.jpg"
+      ],
+      "title": "My Mothers Father",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/my.mothers.father.jpg",
+      "slug": "expressionism-my-mothers-father"
+    },
+    "expressionism-pic-3": {
+      "href": "item.html?src1=img/expressionism/pic_32.jpg",
+      "thumb": "img/expressionism/pic_32.jpg",
+      "sources": [
+        "img/expressionism/pic_32.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_32.jpg",
+      "slug": "expressionism-pic-3"
+    },
+    "expressionism-pic-4": {
+      "href": "item.html?src1=img/expressionism/pic_30.jpg",
+      "thumb": "img/expressionism/pic_30.jpg",
+      "sources": [
+        "img/expressionism/pic_30.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_30.jpg",
+      "slug": "expressionism-pic-4"
+    },
+    "expressionism-the-big-chat-with-dog-and-guitar": {
+      "href": "item.html?src1=img/expressionism/the.big.chat.with.dog.and.guitar.jpg",
+      "thumb": "img/expressionism/the.big.chat.with.dog.and.guitar.jpg",
+      "sources": [
+        "img/expressionism/the.big.chat.with.dog.and.guitar.jpg"
+      ],
+      "title": "The Big Chat With Dog And Guitar",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/the.big.chat.with.dog.and.guitar.jpg",
+      "slug": "expressionism-the-big-chat-with-dog-and-guitar"
+    },
+    "expressionism-pic-5": {
+      "href": "item.html?src1=img/expressionism/pic_31.jpg",
+      "thumb": "img/expressionism/pic_31.jpg",
+      "sources": [
+        "img/expressionism/pic_31.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_31.jpg",
+      "slug": "expressionism-pic-5"
+    },
+    "expressionism-pic-6": {
+      "href": "item.html?src1=img/expressionism/pic_25.jpg",
+      "thumb": "img/expressionism/pic_25.jpg",
+      "sources": [
+        "img/expressionism/pic_25.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_25.jpg",
+      "slug": "expressionism-pic-6"
+    },
+    "expressionism-man-dancing-guitar-flower-tunel": {
+      "href": "item.html?src1=img/expressionism/man.dancing.guitar.flower.tunel.jpg",
+      "thumb": "img/expressionism/man.dancing.guitar.flower.tunel.jpg",
+      "sources": [
+        "img/expressionism/man.dancing.guitar.flower.tunel.jpg"
+      ],
+      "title": "Man Dancing Guitar Flower Tunel",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/man.dancing.guitar.flower.tunel.jpg",
+      "slug": "expressionism-man-dancing-guitar-flower-tunel"
+    },
+    "expressionism-pic-7": {
+      "href": "item.html?src1=img/expressionism/pic_54.jpg",
+      "thumb": "img/expressionism/pic_54.jpg",
+      "sources": [
+        "img/expressionism/pic_54.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_54.jpg",
+      "slug": "expressionism-pic-7"
+    },
+    "expressionism-terminator-man": {
+      "href": "item.html?src1=img/expressionism/terminator.man.jpg",
+      "thumb": "img/expressionism/terminator.man.jpg",
+      "sources": [
+        "img/expressionism/terminator.man.jpg"
+      ],
+      "title": "Terminator Man",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/terminator.man.jpg",
+      "slug": "expressionism-terminator-man"
+    },
+    "expressionism-some-face": {
+      "href": "item.html?src1=img/expressionism/some.face.jpg",
+      "thumb": "img/expressionism/some.face.jpg",
+      "sources": [
+        "img/expressionism/some.face.jpg"
+      ],
+      "title": "Some Face",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/some.face.jpg",
+      "slug": "expressionism-some-face"
+    },
+    "expressionism-dsc01870": {
+      "href": "item.html?src1=img/expressionism/DSC01870.jpg",
+      "thumb": "img/expressionism/DSC01870.jpg",
+      "sources": [
+        "img/expressionism/DSC01870.jpg"
+      ],
+      "title": "DSC01870",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/DSC01870.jpg",
+      "slug": "expressionism-dsc01870"
+    },
+    "expressionism-my-head": {
+      "href": "item.html?src1=img/expressionism/my.head.jpg",
+      "thumb": "img/expressionism/my.head.jpg",
+      "sources": [
+        "img/expressionism/my.head.jpg"
+      ],
+      "title": "My Head",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/my.head.jpg",
+      "slug": "expressionism-my-head"
+    },
+    "expressionism-guitar-player": {
+      "href": "item.html?src1=img/expressionism/guitar.player.jpg",
+      "thumb": "img/expressionism/guitar.player.jpg",
+      "sources": [
+        "img/expressionism/guitar.player.jpg"
+      ],
+      "title": "Guitar Player",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/guitar.player.jpg",
+      "slug": "expressionism-guitar-player"
+    },
+    "expressionism-drug-addict-that-found-jesus": {
+      "href": "item.html?src1=img/expressionism/drug.addict.that.found.jesus.jpg",
+      "thumb": "img/expressionism/drug.addict.that.found.jesus.jpg",
+      "sources": [
+        "img/expressionism/drug.addict.that.found.jesus.jpg"
+      ],
+      "title": "Drug Addict That Found Jesus",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/drug.addict.that.found.jesus.jpg",
+      "slug": "expressionism-drug-addict-that-found-jesus"
+    },
+    "expressionism-dsc01854": {
+      "href": "item.html?src1=img/expressionism/DSC01854.jpg",
+      "thumb": "img/expressionism/DSC01854.jpg",
+      "sources": [
+        "img/expressionism/DSC01854.jpg"
+      ],
+      "title": "DSC01854",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/DSC01854.jpg",
+      "slug": "expressionism-dsc01854"
+    },
+    "expressionism-alison-in-cubes": {
+      "href": "item.html?src1=img/expressionism/alison.in.cubes.jpg",
+      "thumb": "img/expressionism/alison.in.cubes.jpg",
+      "sources": [
+        "img/expressionism/alison.in.cubes.jpg"
+      ],
+      "title": "Alison In Cubes",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/alison.in.cubes.jpg",
+      "slug": "expressionism-alison-in-cubes"
+    },
+    "expressionism-erin-ethan": {
+      "href": "item.html?src1=img/expressionism/erin.ethan.jpg",
+      "thumb": "img/expressionism/erin.ethan.jpg",
+      "sources": [
+        "img/expressionism/erin.ethan.jpg"
+      ],
+      "title": "Erin Ethan",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/erin.ethan.jpg",
+      "slug": "expressionism-erin-ethan"
+    },
+    "expressionism-yellow-blue-man-waiting": {
+      "href": "item.html?src1=img/expressionism/yellow.blue.man.waiting.jpg",
+      "thumb": "img/expressionism/yellow.blue.man.waiting.jpg",
+      "sources": [
+        "img/expressionism/yellow.blue.man.waiting.jpg"
+      ],
+      "title": "Yellow Blue Man Waiting",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/yellow.blue.man.waiting.jpg",
+      "slug": "expressionism-yellow-blue-man-waiting"
+    },
+    "expressionism-dsc01909": {
+      "href": "item.html?src1=img/expressionism/DSC01909.jpg",
+      "thumb": "img/expressionism/DSC01909.jpg",
+      "sources": [
+        "img/expressionism/DSC01909.jpg"
+      ],
+      "title": "DSC01909",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/DSC01909.jpg",
+      "slug": "expressionism-dsc01909"
+    },
+    "expressionism-woman-with-yellow-turban": {
+      "href": "item.html?src1=img/expressionism/woman.with.yellow.turban.jpg",
+      "thumb": "img/expressionism/woman.with.yellow.turban.jpg",
+      "sources": [
+        "img/expressionism/woman.with.yellow.turban.jpg"
+      ],
+      "title": "Woman With Yellow Turban",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/woman.with.yellow.turban.jpg",
+      "slug": "expressionism-woman-with-yellow-turban"
+    },
+    "expressionism-woman-red-brown-black-white": {
+      "href": "item.html?src1=img/expressionism/woman.red.brown.black.white.jpg",
+      "thumb": "img/expressionism/woman.red.brown.black.white.jpg",
+      "sources": [
+        "img/expressionism/woman.red.brown.black.white.jpg"
+      ],
+      "title": "Woman Red Brown Black White",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/woman.red.brown.black.white.jpg",
+      "slug": "expressionism-woman-red-brown-black-white"
+    },
+    "expressionism-middle-age-woman-tired-sad": {
+      "href": "item.html?src1=img/expressionism/middle.age.woman.tired.sad.jpg",
+      "thumb": "img/expressionism/middle.age.woman.tired.sad.jpg",
+      "sources": [
+        "img/expressionism/middle.age.woman.tired.sad.jpg"
+      ],
+      "title": "Middle Age Woman Tired Sad",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/middle.age.woman.tired.sad.jpg",
+      "slug": "expressionism-middle-age-woman-tired-sad"
+    },
+    "expressionism-fired-face": {
+      "href": "item.html?src1=img/expressionism/fired.face.jpg",
+      "thumb": "img/expressionism/fired.face.jpg",
+      "sources": [
+        "img/expressionism/fired.face.jpg"
+      ],
+      "title": "Fired Face",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/fired.face.jpg",
+      "slug": "expressionism-fired-face"
+    },
+    "expressionism-lost-something-special": {
+      "href": "item.html?src1=img/expressionism/lost.something.special.jpg",
+      "thumb": "img/expressionism/lost.something.special.jpg",
+      "sources": [
+        "img/expressionism/lost.something.special.jpg"
+      ],
+      "title": "Lost Something Special",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/lost.something.special.jpg",
+      "slug": "expressionism-lost-something-special"
+    },
+    "expressionism-pic-8": {
+      "href": "item.html?src1=img/expressionism/pic_66.jpg",
+      "thumb": "img/expressionism/pic_66.jpg",
+      "sources": [
+        "img/expressionism/pic_66.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_66.jpg",
+      "slug": "expressionism-pic-8"
+    },
+    "expressionism-one-eye-man-and-fish-bowl": {
+      "href": "item.html?src1=img/expressionism/one.eye.man.and.fish.bowl.jpg",
+      "thumb": "img/expressionism/one.eye.man.and.fish.bowl.jpg",
+      "sources": [
+        "img/expressionism/one.eye.man.and.fish.bowl.jpg"
+      ],
+      "title": "One Eye Man And Fish Bowl",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/one.eye.man.and.fish.bowl.jpg",
+      "slug": "expressionism-one-eye-man-and-fish-bowl"
+    },
+    "expressionism-woman-face-with-red-hair": {
+      "href": "item.html?src1=img/expressionism/woman.face.with.red.hair.jpg",
+      "thumb": "img/expressionism/woman.face.with.red.hair.jpg",
+      "sources": [
+        "img/expressionism/woman.face.with.red.hair.jpg"
+      ],
+      "title": "Woman Face With Red Hair",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/woman.face.with.red.hair.jpg",
+      "slug": "expressionism-woman-face-with-red-hair"
+    },
+    "expressionism-pic-9": {
+      "href": "item.html?src1=img/expressionism/pic_28.jpg",
+      "thumb": "img/expressionism/pic_28.jpg",
+      "sources": [
+        "img/expressionism/pic_28.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_28.jpg",
+      "slug": "expressionism-pic-9"
+    },
+    "expressionism-pic-10": {
+      "href": "item.html?src1=img/expressionism/pic_00.jpg",
+      "thumb": "img/expressionism/pic_00.jpg",
+      "sources": [
+        "img/expressionism/pic_00.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_00.jpg",
+      "slug": "expressionism-pic-10"
+    },
+    "expressionism-red-hair-mother": {
+      "href": "item.html?src1=img/expressionism/red.hair.mother.jpg",
+      "thumb": "img/expressionism/red.hair.mother.jpg",
+      "sources": [
+        "img/expressionism/red.hair.mother.jpg"
+      ],
+      "title": "Red Hair Mother",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/red.hair.mother.jpg",
+      "slug": "expressionism-red-hair-mother"
+    },
+    "expressionism-pic-11": {
+      "href": "item.html?src1=img/expressionism/pic_29.jpg",
+      "thumb": "img/expressionism/pic_29.jpg",
+      "sources": [
+        "img/expressionism/pic_29.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_29.jpg",
+      "slug": "expressionism-pic-11"
+    },
+    "expressionism-large-face-with-large-white-teeth": {
+      "href": "item.html?src1=img/expressionism/large.face.with.large.white.teeth.jpg",
+      "thumb": "img/expressionism/large.face.with.large.white.teeth.jpg",
+      "sources": [
+        "img/expressionism/large.face.with.large.white.teeth.jpg"
+      ],
+      "title": "Large Face With Large White Teeth",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/large.face.with.large.white.teeth.jpg",
+      "slug": "expressionism-large-face-with-large-white-teeth"
+    },
+    "expressionism-double-face-man": {
+      "href": "item.html?src1=img/expressionism/double.face.man.jpg",
+      "thumb": "img/expressionism/double.face.man.jpg",
+      "sources": [
+        "img/expressionism/double.face.man.jpg"
+      ],
+      "title": "Double Face Man",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/double.face.man.jpg",
+      "slug": "expressionism-double-face-man"
+    },
+    "expressionism-pic-12": {
+      "href": "item.html?src1=img/expressionism/pic_02.jpg",
+      "thumb": "img/expressionism/pic_02.jpg",
+      "sources": [
+        "img/expressionism/pic_02.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_02.jpg",
+      "slug": "expressionism-pic-12"
+    },
+    "expressionism-pic-13": {
+      "href": "item.html?src1=img/expressionism/pic_12.jpg",
+      "thumb": "img/expressionism/pic_12.jpg",
+      "sources": [
+        "img/expressionism/pic_12.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_12.jpg",
+      "slug": "expressionism-pic-13"
+    },
+    "expressionism-man-in-the-desert-with-bow-tie": {
+      "href": "item.html?src1=img/expressionism/man.in.the.desert.with.bow.tie.jpg",
+      "thumb": "img/expressionism/man.in.the.desert.with.bow.tie.jpg",
+      "sources": [
+        "img/expressionism/man.in.the.desert.with.bow.tie.jpg"
+      ],
+      "title": "Man In The Desert With Bow Tie",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/man.in.the.desert.with.bow.tie.jpg",
+      "slug": "expressionism-man-in-the-desert-with-bow-tie"
+    },
+    "expressionism-young-woman-face": {
+      "href": "item.html?src1=img/expressionism/young.woman.face.jpg",
+      "thumb": "img/expressionism/young.woman.face.jpg",
+      "sources": [
+        "img/expressionism/young.woman.face.jpg"
+      ],
+      "title": "Young Woman Face",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/young.woman.face.jpg",
+      "slug": "expressionism-young-woman-face"
+    },
+    "expressionism-pic-14": {
+      "href": "item.html?src1=img/expressionism/pic_11.jpg",
+      "thumb": "img/expressionism/pic_11.jpg",
+      "sources": [
+        "img/expressionism/pic_11.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/pic_11.jpg",
+      "slug": "expressionism-pic-14"
+    },
+    "expressionism-alien-from-outer-space-illegal": {
+      "href": "item.html?src1=img/expressionism/alien.from.outer.space.illegal.jpg",
+      "thumb": "img/expressionism/alien.from.outer.space.illegal.jpg",
+      "sources": [
+        "img/expressionism/alien.from.outer.space.illegal.jpg"
+      ],
+      "title": "Alien From Outer Space Illegal",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/alien.from.outer.space.illegal.jpg",
+      "slug": "expressionism-alien-from-outer-space-illegal"
+    },
+    "expressionism-jorge-no-shirt-green-background": {
+      "href": "item.html?src1=img/expressionism/jorge.no.shirt.green.background.jpg",
+      "thumb": "img/expressionism/jorge.no.shirt.green.background.jpg",
+      "sources": [
+        "img/expressionism/jorge.no.shirt.green.background.jpg"
+      ],
+      "title": "Jorge No Shirt Green Background",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/jorge.no.shirt.green.background.jpg",
+      "slug": "expressionism-jorge-no-shirt-green-background"
+    },
+    "expressionism-some-teeth": {
+      "href": "item.html?src1=img/expressionism/some.teeth.jpg",
+      "thumb": "img/expressionism/some.teeth.jpg",
+      "sources": [
+        "img/expressionism/some.teeth.jpg"
+      ],
+      "title": "Some Teeth",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/some.teeth.jpg",
+      "slug": "expressionism-some-teeth"
+    },
+    "expressionism-nelida-from-picture-when-young-in-argentina": {
+      "href": "item.html?src1=img/expressionism/nelida.from.picture.when.young.in.argentina.jpg",
+      "thumb": "img/expressionism/nelida.from.picture.when.young.in.argentina.jpg",
+      "sources": [
+        "img/expressionism/nelida.from.picture.when.young.in.argentina.jpg"
+      ],
+      "title": "Nelida From Picture When Young In Argentina",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/expressionism/nelida.from.picture.when.young.in.argentina.jpg",
+      "slug": "expressionism-nelida-from-picture-when-young-in-argentina"
+    },
+    "cubes-liam-olivia-and-noah": {
+      "href": "item.html?src1=img/cubes/large.cube.canvas.turn.heads.boy.girl.boy.jpg",
+      "thumb": "img/cubes/large.cube.canvas.turn.heads.boy.girl.boy.jpg",
+      "sources": [
+        "img/cubes/large.cube.canvas.turn.heads.boy.girl.boy.jpg"
+      ],
+      "title": "Liam, Olivia and Noah",
+      "medium": "OIL on canvas and wood frame.",
+      "dimensions": "8 feet by 5 feet 3 inches.",
+      "meta": "OIL on canvas and wood frame · 8 feet by 5 feet 3 inches",
+      "price": "$5000.00",
+      "sold": false,
+      "primary": "img/cubes/large.cube.canvas.turn.heads.boy.girl.boy.jpg",
+      "slug": "cubes-liam-olivia-and-noah"
+    },
+    "cubes-pic": {
+      "href": "item.html?src1=img/cubes/pic_21.jpg",
+      "thumb": "img/cubes/pic_21.jpg",
+      "sources": [
+        "img/cubes/pic_21.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_21.jpg",
+      "slug": "cubes-pic"
+    },
+    "cubes-pic-2": {
+      "href": "item.html?src1=img/cubes/pic_20.jpg",
+      "thumb": "img/cubes/pic_20.jpg",
+      "sources": [
+        "img/cubes/pic_20.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_20.jpg",
+      "slug": "cubes-pic-2"
+    },
+    "cubes-pic-3": {
+      "href": "item.html?src1=img/cubes/pic_08.jpg",
+      "thumb": "img/cubes/pic_08.jpg",
+      "sources": [
+        "img/cubes/pic_08.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_08.jpg",
+      "slug": "cubes-pic-3"
+    },
+    "cubes-pic-4": {
+      "href": "item.html?src1=img/cubes/pic_23.jpg",
+      "thumb": "img/cubes/pic_23.jpg",
+      "sources": [
+        "img/cubes/pic_23.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_23.jpg",
+      "slug": "cubes-pic-4"
+    },
+    "cubes-pic-5": {
+      "href": "item.html?src1=img/cubes/pic_40.jpg",
+      "thumb": "img/cubes/pic_40.jpg",
+      "sources": [
+        "img/cubes/pic_40.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_40.jpg",
+      "slug": "cubes-pic-5"
+    },
+    "cubes-pic-6": {
+      "href": "item.html?src1=img/cubes/pic_47.jpg",
+      "thumb": "img/cubes/pic_47.jpg",
+      "sources": [
+        "img/cubes/pic_47.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_47.jpg",
+      "slug": "cubes-pic-6"
+    },
+    "cubes-pic-7": {
+      "href": "item.html?src1=img/cubes/pic_53.jpg",
+      "thumb": "img/cubes/pic_53.jpg",
+      "sources": [
+        "img/cubes/pic_53.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_53.jpg",
+      "slug": "cubes-pic-7"
+    },
+    "cubes-pic-8": {
+      "href": "item.html?src1=img/cubes/pic_52.jpg",
+      "thumb": "img/cubes/pic_52.jpg",
+      "sources": [
+        "img/cubes/pic_52.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_52.jpg",
+      "slug": "cubes-pic-8"
+    },
+    "cubes-pic-9": {
+      "href": "item.html?src1=img/cubes/pic_46.jpg",
+      "thumb": "img/cubes/pic_46.jpg",
+      "sources": [
+        "img/cubes/pic_46.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_46.jpg",
+      "slug": "cubes-pic-9"
+    },
+    "cubes-woman-cubes-blue-dress-blue-turban": {
+      "href": "item.html?src1=img/cubes/woman.cubes.blue.dress.blue.turban.jpg",
+      "thumb": "img/cubes/woman.cubes.blue.dress.blue.turban.jpg",
+      "sources": [
+        "img/cubes/woman.cubes.blue.dress.blue.turban.jpg"
+      ],
+      "title": "Woman Cubes Blue Dress Blue Turban",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/woman.cubes.blue.dress.blue.turban.jpg",
+      "slug": "cubes-woman-cubes-blue-dress-blue-turban"
+    },
+    "cubes-pic-10": {
+      "href": "item.html?src1=img/cubes/pic_03.jpg",
+      "thumb": "img/cubes/pic_03.jpg",
+      "sources": [
+        "img/cubes/pic_03.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_03.jpg",
+      "slug": "cubes-pic-10"
+    },
+    "cubes-pic-11": {
+      "href": "item.html?src1=img/cubes/pic_06.jpg",
+      "thumb": "img/cubes/pic_06.jpg",
+      "sources": [
+        "img/cubes/pic_06.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_06.jpg",
+      "slug": "cubes-pic-11"
+    },
+    "cubes-pic-12": {
+      "href": "item.html?src1=img/cubes/pic_07.jpg",
+      "thumb": "img/cubes/pic_07.jpg",
+      "sources": [
+        "img/cubes/pic_07.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_07.jpg",
+      "slug": "cubes-pic-12"
+    },
+    "cubes-pic-13": {
+      "href": "item.html?src1=img/cubes/pic_39.jpg",
+      "thumb": "img/cubes/pic_39.jpg",
+      "sources": [
+        "img/cubes/pic_39.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_39.jpg",
+      "slug": "cubes-pic-13"
+    },
+    "cubes-pic-14": {
+      "href": "item.html?src1=img/cubes/pic_38.jpg",
+      "thumb": "img/cubes/pic_38.jpg",
+      "sources": [
+        "img/cubes/pic_38.jpg"
+      ],
+      "title": "Pic",
+      "medium": "",
+      "dimensions": "",
+      "meta": "",
+      "price": "",
+      "sold": true,
+      "primary": "img/cubes/pic_38.jpg",
+      "slug": "cubes-pic-14"
+    }
+  },
+  "galleries": {
+    "turn.html": {
+      "header": "<div class=\"page-title-row\">\n        <h1>Turn</h1>\n        <a class=\"back-link\" href=\"index.html\"><span aria-hidden=\"true\">←</span> Home</a>\n    </div>\n    <hr>",
+      "slugs": [
+        "turn-heads-lola-the-dancer",
+        "turn-heads-lastima",
+        "turn-heads-carpet-dance",
+        "turn-heads-ron-the-dancer",
+        "turn-heads-lizy-the-student",
+        "turn-heads-the-staloni-dancers",
+        "turn-heads-the-barber-kids",
+        "turn-heads-the-guitar-and-the-dancer",
+        "turn-heads-the-sister-dancers",
+        "turn-heads-the-first-family",
+        "turn-heads-siblings",
+        "turn-heads-scratch-dancers",
+        "turn-heads-red-dances",
+        "turn-heads-mother-mora",
+        "turn-heads-fish-dancers",
+        "turn-heads-purple-hair-dancer",
+        "turn-heads-red-hair-dancer",
+        "turn-heads-sam-and-dancer",
+        "turn-heads-the-blue-family-dancing",
+        "turn-heads-the-glass-dancer"
+      ]
+    },
+    "trees_paper.html": {
+      "header": "<div class=\"page-title-row\">\n        <h1>Trees on paper</h1>\n        <a class=\"back-link\" href=\"trees.html\"><span aria-hidden=\"true\">←</span> Trees</a>\n    </div>\n    <hr>\n\n    <p class=\"text-center my-4\">\n        <img src=\"img/trees/tree_header.JPG\" alt=\"Trees on paper — header artwork.\" class=\"w-100 rounded\" style=\"max-width: 36rem; height: auto;\" loading=\"lazy\">\n    </p>\n    <hr>",
+      "slugs": [
+        "trees-tree-19",
+        "trees-tree-23",
+        "trees-tree-24",
+        "trees-tree-16",
+        "trees-tree-17",
+        "trees-tree-18",
+        "trees-tree-14",
+        "trees-tree-20",
+        "trees-tree-15",
+        "trees-tree-27",
+        "trees-tree-28",
+        "trees-tree-29",
+        "trees-tree-30",
+        "trees-tree-32",
+        "trees-woman-running-by-tree"
+      ]
+    },
+    "trees_canvas.html": {
+      "header": "<div class=\"page-title-row\">\n        <h1>Trees on canvas</h1>\n        <a class=\"back-link\" href=\"trees.html\"><span aria-hidden=\"true\">←</span> Trees</a>\n    </div>\n    <hr>",
+      "slugs": [
+        "trees-tree-33",
+        "trees-tree-34",
+        "trees-tree-35",
+        "trees-tree-36",
+        "trees-tree-37",
+        "trees-tree-38",
+        "trees-tree-39",
+        "trees-tree-40",
+        "trees-tree-41",
+        "trees-tree-26",
+        "trees-tree-9",
+        "trees-tree-10",
+        "trees-tree-11",
+        "trees-tree-12",
+        "trees-tree-21",
+        "trees-tree-13",
+        "trees-tree-25",
+        "trees-tree-1",
+        "trees-tree-3",
+        "trees-tree-5",
+        "trees-tree-6",
+        "trees-tree-7",
+        "trees-tree-8",
+        "trees-tree-4",
+        "trees-tree-22",
+        "trees-tree-2"
+      ]
+    },
+    "express.html": {
+      "header": "<div class=\"page-title-row\">\n        <h1>Expressionism</h1>\n        <a class=\"back-link\" href=\"index.html\"><span aria-hidden=\"true\">←</span> Home</a>\n    </div>\n    <hr>",
+      "slugs": [
+        "expressionism-a-park-in-buenos-aires",
+        "expressionism-the-police",
+        "expressionism-son-and-father",
+        "expressionism-mother-emma",
+        "expressionism-the-charlatan",
+        "expressionism-self-portrait",
+        "expressionism-brother-and-little-sister",
+        "expressionism-keep-the-aspidistra-flying",
+        "expressionism-mother-sarah",
+        "expressionism-thailand",
+        "expressionism-sisters",
+        "expressionism-animal-farm",
+        "expressionism-door-to-door-salesman",
+        "expressionism-man-staring-woman-eyes",
+        "expressionism-woman-holding-umbrella-for-man",
+        "expressionism-woman-with-nice-dress-and-nice-hair",
+        "expressionism-blond-with-broom-and-white-dress",
+        "expressionism-the-chat-holding-hands",
+        "expressionism-pic",
+        "expressionism-pic-2",
+        "expressionism-clown-like-long-eyelashes-yellow-and-blue-green-background",
+        "expressionism-my-mothers-father",
+        "expressionism-pic-3",
+        "expressionism-pic-4",
+        "expressionism-the-big-chat-with-dog-and-guitar",
+        "expressionism-pic-5",
+        "expressionism-pic-6",
+        "expressionism-man-dancing-guitar-flower-tunel",
+        "expressionism-pic-7",
+        "expressionism-terminator-man",
+        "expressionism-some-face",
+        "expressionism-dsc01870",
+        "expressionism-my-head",
+        "expressionism-guitar-player",
+        "expressionism-drug-addict-that-found-jesus",
+        "expressionism-dsc01854",
+        "expressionism-alison-in-cubes",
+        "expressionism-erin-ethan",
+        "expressionism-yellow-blue-man-waiting",
+        "expressionism-dsc01909",
+        "expressionism-woman-with-yellow-turban",
+        "expressionism-woman-red-brown-black-white",
+        "expressionism-middle-age-woman-tired-sad",
+        "expressionism-fired-face",
+        "expressionism-lost-something-special",
+        "expressionism-pic-8",
+        "expressionism-one-eye-man-and-fish-bowl",
+        "expressionism-woman-face-with-red-hair",
+        "expressionism-pic-9",
+        "expressionism-pic-10",
+        "expressionism-red-hair-mother",
+        "expressionism-pic-11",
+        "expressionism-large-face-with-large-white-teeth",
+        "expressionism-double-face-man",
+        "expressionism-pic-12",
+        "expressionism-pic-13",
+        "expressionism-man-in-the-desert-with-bow-tie",
+        "expressionism-young-woman-face",
+        "expressionism-pic-14",
+        "expressionism-alien-from-outer-space-illegal",
+        "expressionism-jorge-no-shirt-green-background",
+        "expressionism-some-teeth",
+        "expressionism-nelida-from-picture-when-young-in-argentina"
+      ]
+    },
+    "cubes.html": {
+      "header": "<div class=\"page-title-row\">\n        <h1>Cubes</h1>\n        <a class=\"back-link\" href=\"index.html\"><span aria-hidden=\"true\">←</span> Home</a>\n    </div>\n    <hr>",
+      "slugs": [
+        "cubes-liam-olivia-and-noah",
+        "cubes-pic",
+        "cubes-pic-2",
+        "cubes-pic-3",
+        "cubes-pic-4",
+        "cubes-pic-5",
+        "cubes-pic-6",
+        "cubes-pic-7",
+        "cubes-pic-8",
+        "cubes-pic-9",
+        "cubes-woman-cubes-blue-dress-blue-turban",
+        "cubes-pic-10",
+        "cubes-pic-11",
+        "cubes-pic-12",
+        "cubes-pic-13",
+        "cubes-pic-14"
+      ]
+    }
+  }
+}

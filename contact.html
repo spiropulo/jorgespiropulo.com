@@ -1,27 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54626116-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'UA-54626116-1');
-    </script>
-    <meta charset="UTF-8">
+
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Contact Jorge Spiropulo for inquiries about artwork, commissions, and studio visits.">
+    <meta name="author" content="Jorge Spiropulo">
+    <meta name="robots" content="index, follow">
     <title>Contact — Jorge Spiropulo</title>
-    <script src="https://platform-api.sharethis.com/js/sharethis.js#property=5cf7492d4351e9001264f534&product=sticky-share-buttons" async></script>
-    <link rel="icon" href="img/expressionism/my.baby.sister.jpg">
+    <link rel="canonical" href="https://www.jorgespiropulo.com/contact.html">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="Jorge Spiropulo">
+    <meta property="og:title" content="Contact — Jorge Spiropulo">
+    <meta property="og:description" content="Contact Jorge Spiropulo for inquiries about artwork, commissions, and studio visits.">
+    <meta property="og:url" content="https://www.jorgespiropulo.com/contact.html">
+    <meta property="og:image" content="https://www.jorgespiropulo.com/img/trees/tree1.JPG">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contact — Jorge Spiropulo">
+    <meta name="twitter:description" content="Contact Jorge Spiropulo for inquiries about artwork, commissions, and studio visits.">
+    <meta name="twitter:image" content="https://www.jorgespiropulo.com/img/trees/tree1.JPG">
+    
+    <meta name="theme-color" content="#9a3412">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/gallery-grid.css">
     <link rel="stylesheet" href="css/c.css">
     <link rel="stylesheet" href="css/site.css">
-    <script data-ad-client="ca-pub-2591976854147841" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 </head>
 <body>
 <div class="site-page">
@@ -59,16 +69,17 @@
                         </div>
                     </li>
                 </ul>
-                <div class="nav-share" aria-label="Social follow">
-                    <div class="sharethis-inline-follow-buttons"></div>
-                </div>
             </div>
         </nav>
     </div>
 </header>
+
 <main id="main-content" class="site-shell prose-page">
         <h1>Contact</h1>
-        <p>For questions about a specific work, pricing, shipping, or studio visits, use the form below. When you choose <strong>Send message</strong>, your default email app opens with a pre-filled message. Send that email to deliver your inquiry (no web server required).</p>
+        <p>For questions about a specific work, pricing, shipping, or studio visits, use the form below or email
+            <a href="mailto:spiropulo@gmail.com">spiropulo@gmail.com</a>.
+            When you choose <strong>Send message</strong>, your default email app opens with a pre-filled message.</p>
+        <p class="text-muted">Please include the artwork title, your location (for shipping), and how you prefer to be reached. I aim to reply within a few business days.</p>
 
         <form id="contact-form" class="contact-form" action="#" method="post">
             <input type="text" id="contact-website" class="contact-form__honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
@@ -88,10 +99,31 @@
             <button type="submit" class="contact-form__submit">Send message</button>
         </form>
     </main>
+    <script>
+(function () {
+    var form = document.getElementById('contact-form');
+    if (!form) return;
+    form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var trap = document.getElementById('contact-website');
+        if (trap && trap.value) return;
+        var name = document.getElementById('contact-name').value.trim();
+        var email = document.getElementById('contact-email').value.trim();
+        var message = document.getElementById('contact-message').value.trim();
+        var body = 'Name: ' + name + '\r\n\r\nReply to: ' + email + '\r\n\r\n' + message;
+        var subject = 'Inquiry from jorgespiropulo.com';
+        window.location.href = 'mailto:spiropulo@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+    });
+})();
+</script>
 <footer class="site-footer">
     <div class="footer-top">
         <div class="site-shell">
-            <div class="sharethis-inline-follow-buttons" aria-label="Social follow"></div>
+            <nav class="site-social" aria-label="Connect">
+                <a class="site-social__link" href="mailto:spiropulo@gmail.com">Email</a>
+                <a class="site-social__link" href="https://laa4art.org/" target="_blank" rel="noopener noreferrer">Lamorinda Arts Alliance</a>
+                <a class="site-social__link" href="https://eastbayopenstudios.com/" target="_blank" rel="noopener noreferrer">East Bay Open Studios</a>
+            </nav>
         </div>
     </div>
 
@@ -116,6 +148,7 @@
             <h2>Contact</h2>
             <p>Moraga, CA 94556, US</p>
             <p><a href="contact.html">Contact form</a></p>
+            <p><a href="mailto:spiropulo@gmail.com">spiropulo@gmail.com</a></p>
         </div>
     </div>
 
@@ -123,8 +156,8 @@
         © 2026 <a href="https://www.jorgespiropulo.com/">jorgespiropulo.com</a>
     </div>
 </footer>
-</div>
 
+</div>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
@@ -132,22 +165,7 @@
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/site.js"></script>
-<script>
-(function () {
-    var form = document.getElementById('contact-form');
-    if (!form) return;
-    form.addEventListener('submit', function (e) {
-        e.preventDefault();
-        var trap = document.getElementById('contact-website');
-        if (trap && trap.value) return;
-        var name = document.getElementById('contact-name').value.trim();
-        var email = document.getElementById('contact-email').value.trim();
-        var message = document.getElementById('contact-message').value.trim();
-        var body = 'Name: ' + name + '\r\n\r\nReply to: ' + email + '\r\n\r\n' + message;
-        var subject = 'Inquiry from jorgespiropulo.com';
-        window.location.href = 'mailto:spiropulo@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
-    });
-})();
-</script>
+
+
 </body>
 </html>

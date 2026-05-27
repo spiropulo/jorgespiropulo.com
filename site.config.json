@@ -1,0 +1,25 @@
+{
+  "siteUrl": "https://www.jorgespiropulo.com",
+  "siteName": "Jorge Spiropulo",
+  "defaultDescription": "Original oil paintings by Jorge Spiropulo — expressionist figures, tree landscapes, and cubist compositions. Studio in Moraga, California. Art for sale.",
+  "defaultOgImage": "https://www.jorgespiropulo.com/img/trees/tree1.JPG",
+  "locale": "en_US",
+  "contactEmail": "spiropulo@gmail.com",
+  "ga4MeasurementId": "",
+  "social": [
+    {
+      "label": "Email",
+      "href": "mailto:spiropulo@gmail.com"
+    },
+    {
+      "label": "Lamorinda Arts Alliance",
+      "href": "https://laa4art.org/",
+      "external": true
+    },
+    {
+      "label": "East Bay Open Studios",
+      "href": "https://eastbayopenstudios.com/",
+      "external": true
+    }
+  ]
+}
