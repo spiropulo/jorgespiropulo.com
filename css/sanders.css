@@ -198,7 +198,7 @@ a {
 }
 
 .intro {
-  width: min(var(--measure), calc(100% - 2.5rem));
+  width: min(64rem, calc(100% - 2.5rem));
   margin: 0 auto;
   padding: 4.25rem 0 1rem;
 }
@@ -326,13 +326,17 @@ a {
   font-size: 1.05rem;
 }
 
-.frames {
+.frames,
+.closets {
   display: grid;
-  gap: 1.35rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.6rem 1.25rem;
+  align-items: start;
 }
 
 .rooms-title {
-  margin: 0.85rem 0 0;
+  grid-column: 1 / -1;
+  margin: 1.35rem 0 0;
   font-family: var(--serif);
   font-size: clamp(1.8rem, 3vw, 2.5rem);
   font-weight: 600;
@@ -343,47 +347,37 @@ a {
 .pair,
 .trio,
 .spread {
-  display: grid;
-  gap: 1rem 1.15rem;
-  align-items: start;
-}
-
-.pair {
-  grid-template-columns: 1fr 1fr;
-}
-
-.trio {
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.spread {
-  grid-template-columns: minmax(0, 24rem) minmax(0, 1fr);
-}
-
-.frame--stand {
-  width: min(100%, 34rem);
-  margin-inline: auto;
+  display: contents;
 }
 
 .frame {
+  min-width: 0;
   margin: 0;
 }
 
 .frame-btn {
+  position: relative;
   display: block;
   width: 100%;
-  padding: 0;
+  aspect-ratio: 4 / 3;
+  padding: 0.55rem;
   overflow: hidden;
-  border: 0;
-  border-radius: 2px;
-  background: #ddd8cf;
+  border: 1px solid rgba(27, 67, 60, 0.38);
+  border-radius: 1px;
+  background: var(--bg-raised);
+  box-shadow: 0 10px 24px rgba(27, 36, 32, 0.05);
   cursor: zoom-in;
 }
 
 .frame-btn img {
-  display: block;
-  width: 100%;
-  height: auto;
+  position: absolute;
+  inset: 0.55rem;
+  width: calc(100% - 1.1rem);
+  height: calc(100% - 1.1rem);
+  max-width: none;
+  object-fit: cover;
+  object-position: center;
+  border: 1px solid rgba(27, 36, 32, 0.14);
   transform: scale(1.001);
   transition: transform 0.6s ease;
 }
@@ -400,12 +394,6 @@ figcaption {
   font-size: 1.02rem;
   font-weight: 500;
   line-height: 1.35;
-}
-
-.closets {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.85rem 0.85rem;
 }
 
 .finale {
@@ -673,15 +661,9 @@ figcaption {
 }
 
 @media (max-width: 800px) {
-  .pair,
-  .trio,
-  .spread,
+  .frames,
   .closets,
   .finale {
-    grid-template-columns: 1fr;
-  }
-
-  .closets {
     grid-template-columns: 1fr 1fr;
   }
 
@@ -699,6 +681,11 @@ figcaption {
 }
 
 @media (max-width: 520px) {
+  .frames,
+  .closets {
+    grid-template-columns: 1fr;
+  }
+
   .hero-copy {
     padding-inline: 1.1rem;
   }
