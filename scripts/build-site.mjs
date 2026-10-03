@@ -960,6 +960,7 @@ const sitemapEntries = [
   { loc: `${config.siteUrl}/`, priority: "1.0", changefreq: "weekly" },
   { loc: `${config.siteUrl}/about.html`, priority: "0.8", changefreq: "monthly" },
   { loc: `${config.siteUrl}/contact.html`, priority: "0.8", changefreq: "monthly" },
+  { loc: `${config.siteUrl}/sanders`, priority: "0.8", changefreq: "weekly" },
   { loc: `${config.siteUrl}/trees.html`, priority: "0.9", changefreq: "weekly" },
   { loc: `${config.siteUrl}/trees_canvas.html`, priority: "0.85", changefreq: "weekly" },
   { loc: `${config.siteUrl}/trees_paper.html`, priority: "0.85", changefreq: "weekly" },
